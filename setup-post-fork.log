@@ -1,0 +1,65 @@
+info: unreplaced placeholders ‹SITE-TITLE› ‹SITE-NAME› ‹SITE-SHORTNAME› ‹REPO-NAME› ‹SITE-URL› ‹SITE-UUID› ‹SITE-OWNER-NAME› ‹TWITTER-ACCOUNT-NAME› ‹FORUM-SITE-URL›
+info: user chooses ‹SITE-TITLE› = HestiaLabs
+info: user chooses ‹SITE-NAME› = hestialabs
+info: user chooses ‹SITE-SHORTNAME› = hl
+info: user chooses ‹REPO-NAME› = website.hl
+info: user chooses ‹SITE-URL› = hestialabs.org
+info: user chooses ‹SITE-UUID› = de7a1d71-9b54-4c6c-b2f6-1fa6341804af
+info: user chooses ‹SITE-OWNER-NAME› = Charles Foucault-Dumas
+info: user chooses ‹TWITTER-ACCOUNT-NAME› = HestiaLabs
+info: user chooses ‹FORUM-SITE-URL› = https://www.facebook.com/hestialabs/
+info: replacing ‹SITE-TITLE› with HestiaLabs
+info: replacing ‹SITE-NAME› with hestialabs
+info: replacing ‹SITE-SHORTNAME› with hl
+info: replacing ‹REPO-NAME› with website.hl
+info: replacing ‹SITE-URL› with hestialabs.org
+info: replacing ‹SITE-UUID› with de7a1d71-9b54-4c6c-b2f6-1fa6341804af
+info: replacing ‹SITE-OWNER-NAME› with Charles Foucault-Dumas
+info: replacing ‹TWITTER-ACCOUNT-NAME› with HestiaLabs
+info: replacing ‹FORUM-SITE-URL› with https://www.facebook.com/hestialabs/
+info: replacing ‹REPO-PACKAGE-NAME› with website-hl
+info: replacing ‹NEWSLETTER-FORM-NAME› with newletter-hl-signup
+info: replacing ‹CONTACT-FORM-NAME-INFO› with contact-hl-info
+info: replacing ‹CONTACT-FORM-NAME-MEDIA› with contact-hl-media
+info: replacing ‹CONTACT-FORM-NAME-PARTNERS› with contact-hl-partners
+info: replacing ‹CONTACT-FORM-NAME-RESEARCHERS› with contact-hl-researchers
+info: replaced ‹SITE-NAME› in src/assets/img/placeholder-logo-web-inverted.export.svg
+info: replaced ‹SITE-NAME› in src/assets/img/placeholder-logo-web.export.svg
+info: replaced ‹SITE-NAME› in README.md
+info: replaced ‹REPO-NAME› in package.json
+info: replaced ‹SITE-UUID› in README.md
+info: replaced ‹SITE-OWNER-NAME› in package.json
+info: replaced ‹SITE-TITLE› in src/assets/img/placeholder-logo-web-inverted.export.svg
+info: replaced ‹SITE-TITLE› in src/assets/img/placeholder-logo-web.export.svg
+info: replaced ‹SITE-TITLE› in src/site/community/en/index.md
+info: replaced ‹SITE-TITLE› in src/site/community/fr/index.md
+info: replaced ‹SITE-TITLE› in src/site/favicon.svg
+info: replaced ‹SITE-TITLE› in src/site/home/en/index.md
+info: replaced ‹SITE-TITLE› in src/site/home/fr/index.md
+info: replaced ‹SITE-TITLE› in src/site/index.html
+info: replaced ‹SITE-TITLE› in src/site/manifest.json
+info: replaced ‹SITE-TITLE› in src/site/mission/en/index.md
+info: replaced ‹SITE-TITLE› in src/site/mission/fr/index.md
+info: replaced ‹SITE-TITLE› in README.md
+info: replaced ‹SITE-TITLE› in package.json
+info: replaced ‹SITE-URL› in src/site/_data/links.json
+info: replaced ‹SITE-URL› in README.md
+info: replaced ‹TWITTER-ACCOUNT-NAME› in src/site/_data/links.json
+info: replaced ‹TWITTER-ACCOUNT-NAME› in src/site/community/en/index.md
+info: replaced ‹TWITTER-ACCOUNT-NAME› in src/site/community/fr/index.md
+info: replaced ‹FORUM-SITE-URL› in src/site/_data/links.json
+info: replaced ‹FORUM-SITE-URL› in src/site/community/en/index.md
+info: replaced ‹FORUM-SITE-URL› in src/site/community/fr/index.md
+info: replaced ‹NEWSLETTER-FORM-NAME› in src/site/_layouts/blog.html
+info: replaced ‹NEWSLETTER-FORM-NAME› in src/site/_layouts/home.html
+info: replaced ‹NEWSLETTER-FORM-NAME› in src/site/_layouts/infographic.html
+info: replaced ‹NEWSLETTER-FORM-NAME› in src/site/_layouts/post.html
+info: replaced ‹NEWSLETTER-FORM-NAME› in conf/netlify/forms/newsletter-signup-form-def.html
+info: replaced ‹CONTACT-FORM-NAME-INFO› in src/site/contact/en/info.md
+info: replaced ‹CONTACT-FORM-NAME-INFO› in src/site/contact/fr/info.md
+info: replaced ‹CONTACT-FORM-NAME-MEDIA› in src/site/contact/en/media.md
+info: replaced ‹CONTACT-FORM-NAME-MEDIA› in src/site/contact/fr/media.md
+info: replaced ‹CONTACT-FORM-NAME-PARTNERS› in src/site/contact/en/partners.md
+info: replaced ‹CONTACT-FORM-NAME-PARTNERS› in src/site/contact/fr/partners.md
+info: replaced ‹CONTACT-FORM-NAME-RESEARCHERS› in src/site/contact/en/researchers.md
+info: replaced ‹CONTACT-FORM-NAME-RESEARCHERS› in src/site/contact/fr/researchers.md

@@ -1,5 +1,5 @@
 ---
 id: cfd
 name: Charles Foucault-Dumas
-lead: HestiaLabs Communications Lead
+lead: HestiaLabs' Head of Communications
 ---

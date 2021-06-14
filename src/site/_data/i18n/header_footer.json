@@ -2,21 +2,23 @@
   "en": {
     "home": "home",
     "blog": "blog",
-    "mission": "mission",
+    "strategy": "strategy",
+    "projects": "projects",
     "partners": "partners",
     "media": "media",
     "legal": "legal",
-    "community": "community",
+    "about": "about us",
     "contact": "contact us"
   },
   "fr": {
     "home": "accueil",
     "blog": "blog",
-    "mission": "mission",
+    "strategy": "stratégie",
+    "projects": "projets",
     "partners": "partenaires",
     "media": "médias",
     "legal": "mentions légales",
-    "community": "communauté",
+    "about": "à propos",
     "contact": "contactez-nous"
   }
 }

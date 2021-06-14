@@ -1,0 +1,4 @@
+---
+id: gdpr
+name: GDPR
+---

@@ -1,27 +1,11 @@
 ---
-layout: defaultWithHero
+layout: defaultWithLeadTitle
 ---
-{% for link in i18n.contact_page[locale].links %}
-  {% if loop.first %}
-    <section id="contacts">
-  {% endif %}
-  <h3>{{link.title}}</h3>
-  {% if link.contact[0].type == "link" %}
-    <p><a href="{{link.contact[0].url}}">{{link.description}}</a></p>
-  {% elif link.contact[0].type == "contact" %}
-    <p><a href="{% contactUrl locale, link.contact[0].channel %}">{{link.description}}</a></p>
-  {% endif %}
-  {% if loop.last %}
-    </section>
-  {% endif %}
-{% endfor %}
-
-<section id="contact-form" class="callout">
-  <h3>{{title}}</h3>
-  <contact-form
-    lang="{{locale}}"
-    form-name="{{form_name}}"
-    subject="{{subject}}"></contact-form>
+<section id="contact-form" class="callout with-no-space-before">
+  <contact-form lang="{{locale}}"
+                form-name="{{form_name}}"
+                subject="{{subject}}">
+  </contact-form>
 </section>
 
 <!-- A little help for the Netlify post-processing bots -->

@@ -3,43 +3,64 @@ layout: home
 permalink: /en/index.html
 path: home
 title: HestiaLabs
-lead: The community of **HestiaLabs**
-lead_image: /assets/media/home-hero-image.jpg
-lead_image_caption: Photo by [Mary Eineman](https://unsplash.com/@maryeineman)
-  on [Unsplash](https://unsplash.com/photos/sQtGjRSOyGk)
-paragraph1_title: We define a new relationship to data
-community_title: We are a collective of users
-community_description: "HestiaLabs is you and me: app users and
-  people keen to understand privacy in relationships formed online. The
-  collective is worried about the way our intimate life is being coded and
-  exposed online. We aim to retake control of personal data on apps,
-  understand the privacy problems they create, and work to improve data
-  literacy."
-community_link_text: Join us
-mission_description: >-
-  We want to understand many privacy risks that we, as app users, are
-  confronted with when looking for a date online: unwanted ads, discrimination
-  resulting from data, incorrect profiling and predictions, and the possibility
-  of phishing and identity theft by rogue users.
+lead: |-
+  We give users\
+  **control over their data**\
+  Are you in?
+lead_image: /assets/media/hl_home_hero-c-rodion-kutsaev-unsplash-c.jpeg
+lead_image_caption: Photo by [Rodion Kutsaev](https://unsplash.com/@frostroomhead)
+  on [Unsplash](https://unsplash.com/photos/0VGG7cqTwCo)
+paragraph1_title: We create a new relationship to personal data
+join_title: Join us
+join_description: >-
+  You have a meaningful project in mind that requires data? Happy to help!
+
+  HestiaLabs supports you in creating the [data collective](/en/projects/) and the community of people willing to share their data for your project (the data sharers). **For free!**
+join_link_text: Submit a project
+join_channel: projects
+problem_title: The problem we solve
+problem_description: >-
+  Artificial intelligence is changing the world. This revolution must benefit
+  the many and not the few. For this to happen, individuals and organisations
+  must be able to understand the algorithms behind the digital services they
+  provide data to and what they get in return.
 
 
-  Our ultimate goal is to bring together users and privacy enthusiasts to push for a paradigm shift.
-mission_link_text: Learn more
-partners_title: We connect with many partners
-mission_title: We work to understand what's being done
-partners_description: >-
-  We are looking to collaborate with journalists, academics, researchers,
-  activists and NGOs in data protection and other related themes.
+  This paradigm shift will only be possible by building sustainable and trusted bridges between the people willing to share their data for a specific purpose and those with the know-how to achieve these goals. This led us to the creation of what we call “[data collectives](/en/projects/)”.
+partners_title: Partners we can trust
+partners_description: We are very grateful to those who believe in us since the
+  beginning, especially the [Migros Pioneer
+  Fund](https://www.migros-pionierfonds.ch/en/kuhne-vorhaben). They allow us to
+  carry out our **public interest mission** with the rigour (and time!)
+  necessary to properly accomplish this complex work.
+partners_link_text: Learn more
+subtitle_1: Your data is important
+featured_projects:
+  - dating privacy
+  - uber-drivers
+  - disinformation
+  - mobility
+  - data-literacy
+subtitle_2: We support data collectives
+strategy_title: Our strategy
+strategy_description: >-
+  **Small shifts in personal habits lead to major societal changes**. People
+  need concrete examples to understand the power of the data they generate. To
+  prime the pump, HestiaLabs helps those who are already ready to reinvent our
+  data future.
 
 
-  We push ideas for better user and company practices to control personal data and date safely online. We are particularly interested in raising awareness, as well as building methodological protocols and privacy tools for data protection and literacy.
-partners_link_text: Contact us
+  We support **community projects around personal data collectives**. We put our **skills** (technical, legal, advocacy) and **networks** at their disposal.
+strategy_link_text: Learn more
+projects_title: Running projects
 news_title: News and events
 news:
-  - type: infographic
-    infographic: what-bumble-collects-about-you
   - type: editorial
-    editorial: dating-apps-share-your-data
+    editorial: personal-data-and-public-space-dont-trip-on-the-curb
+  - type: editorial
+    editorial: why-the-world-needs-data-collectives
   - type: interview
-    interview: interview-de-jessica-pidoux-journal-le-temps
+    interview: hestialabs-wants-to-create-data-short-cycles
+  - type: interview
+    interview: people-will-just-use-hestialabs-and-invent
 ---

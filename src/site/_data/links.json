@@ -1,8 +1,12 @@
 {
-  "canonical_base_url": "hestialabs.org",
-  "twitter_label": "Twitter",
-  "twitter_account": "@HestiaLabs",
-  "twitter_url": "https://twitter.com/HestiaLabs",
-  "forum_label": "Forum",
-  "forum_url": "https://www.facebook.com/hestialabs/"
+    "canonical_base_url": "https://hestialabs.org",
+    "twitter_label": "Twitter",
+    "twitter_account": "@HestiaLabs",
+    "twitter_url": "https://twitter.com/HestiaLabs",
+    "linkedin_label": "LinkedIn",
+    "linkedin_account": "hestia-ai",
+    "linkedin_url": "https://www.linkedin.com/company/hestia-ai/",
+    "facebook_label": "Facebook",
+    "facebook_account": "hestialabs",
+    "facebook_url": "https://www.facebook.com/hestialabs/"
 }

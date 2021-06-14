@@ -1,0 +1,65 @@
+---
+layout: defaultWithHero
+---
+<section id="story">
+  <h1>{% inlineMarkdown story_title %}</h1>
+  {% markdown story %}
+</section>
+
+<section id="people">
+  <h1>{% inlineMarkdown people_title %}</h1>
+  <div class="stack-layout with-gutters">
+    {% for person in people %}
+      <contact-card class="stack-cell"
+          name="{{person.name}}"
+          img-src="{{person.image}}">
+        <h2>{{person.name}}</h2>
+        {% markdown person.description %}
+        <p>
+          {% if person.twitter %}
+            <a href="{{person.twitter}}" target="_blank">twitter</a>
+          {% endif %}
+          {% if person.linkedin %}
+            <a href="{{person.linkedin}}" target="_blank">linkedin</a>
+          {% endif %}
+          {% if person.email %}
+            <a href="{{person.email}}" target="_blank">email</a>
+          {% endif %}
+        </p>
+      </contact-card>
+    {% endfor %}
+  </div>
+</section>
+
+<section id="contact" class="callout">
+  <h1>{% inlineMarkdown contact_title %}</h1>
+
+  <h3>{{contact_project}}</h3>
+  <p><a href="{% contactUrl locale, contact_project_channel %}">{{contact_project_action}}</a></p>
+
+  <h3>{{contact_sharer}}</h3>
+  <p><a href="{{contact_sharer_url}}">{{contact_sharer_action}}</a></p>
+
+  <h3>{{contact_partner}}</h3>
+  <p><a href="{% contactUrl locale, contact_partner_channel %}">{{contact_partner_action}}</a></p>
+
+  <h3>{{contact_media}}</h3>
+  <p><a href="{{contact_media_url}}">{{contact_media_action}}</a></p>
+
+  <h3>{{contact_other}}</h3>
+  <p><a href="{% contactUrl locale, contact_other_channel %}">{{contact_other_action}}</a></p>
+</section>
+
+<section id="timeline" class="callout alt">
+  <h1>{{timeline_title}}</h1>
+  {% for event in timeline_events %}
+    <div>
+      <h2>{{event.date | readableDate(locale, "LLLL yyyy")}}</h2>
+      {% markdown event.description %}
+    </div>
+  {% endfor %}
+</section>
+
+<script type="module">
+  import '/components/contact-card.js';
+</script>

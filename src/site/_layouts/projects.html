@@ -1,0 +1,78 @@
+---
+layout: defaultWithHero
+---
+{% set articleLayout = cycler("card", "card-alt") %}
+<section id="purpose">
+  <h1>{% inlineMarkdown introduction_title %}</h1>
+  <div>
+    {% markdown introduction%}
+  </div>
+</section>
+
+<section id="your-project" class="callout">
+  <h1>{% inlineMarkdown your_title %}</h1>
+  {% markdown your_content %}
+  <p><a href="{% contactUrl locale, your_channel %}"><button class="primary big">{{your_button}}</button></a></p>
+</section>
+
+<section id="running-projects" class="callout alt">
+  <h1>{% inlineMarkdown running_projects_title %}</h1>
+  <div class="stack-layout with-gutters">
+    {% set running_to_display = defaultTranslation.page.data.running_projects %}
+    {% for project_to_display in running_to_display %}
+      {% for project in collections.project %}
+      {% if project.data.locale == locale
+            and project.data.id == project_to_display %}
+        {% set contact = project.data.contact[0] %}
+        <article-breakout
+            id="{{project.data.page.fileSlug}}"
+            layout="{{articleLayout.next()}}" class="stack-cell"
+            {% if contact and contact.channel %}
+              href="{% contactUrl locale, contact.channel %}"
+            {% elif contact and contact.url %}
+              href="{{contact.url}}"
+            {% endif %}
+            img-src="{{project.data.image | url}}">
+          <span slot="caption">{% inlineMarkdown project.data.image_caption %}</span>
+          <h2>{{project.data.name}}</h2>
+          {% markdown project.data.description %}
+          <button>{{contact.button}}</button>
+        </article-breakout>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</section>
+
+<section id="launchpad-projects" class="callout alt">
+  <h1>{% inlineMarkdown launchpad_projects_title %}</h1>
+  <div class="stack-layout with-gutters">
+    {% set launchpad_to_display = defaultTranslation.page.data.launchpad_projects %}
+    {% for project_to_display in launchpad_to_display %}
+      {% for project in collections.project %}
+        {% if project.data.locale == locale
+    and project.data.id == project_to_display%}
+          {% set contact = project.data.contact[0] %}
+          <article-breakout
+              id="{{project.data.page.fileSlug}}"
+              layout="{{articleLayout.next()}}" class="stack-cell"
+              {% if contact and contact.channel %}
+                href="{% contactUrl locale, contact.channel %}"
+              {% elif contact and contact.url %}
+                href="{{contact.url}}"
+              {% endif %}
+              img-src="{{project.data.image | url}}">
+            <span slot="caption">{% inlineMarkdown project.data.image_caption %}</span>
+            <h2>{{ project.data.name }}</h2>
+            {% markdown project.data.description %}
+            <button>{{contact.button}}</button>
+          </article-breakout>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</section>
+
+<script type="module">
+  import '/components/article-breakout.js';
+</script>

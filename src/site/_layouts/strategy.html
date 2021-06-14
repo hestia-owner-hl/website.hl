@@ -1,0 +1,39 @@
+---
+layout: defaultWithHero
+---
+{% set articleLayout = cycler("card", "card-alt") %}
+
+<section id="intro" class="callout">
+  <h1>{% inlineMarkdown introduction_title %}</h1>
+  {% markdown introduction %}
+  <p>
+    <a href="{% contactUrl locale, submit_channel %}">
+      <button class="primary big">{{submit_button}}</button></a></p>
+</section>
+
+<section id="four-steps" class="callout alt">
+  <h1>{% inlineMarkdown four_steps_title %}</h1>
+  <div class="stack-layout with-gutters">
+    {% for step in change_steps %}
+      <article-breakout
+          id="{{project.data.page.fileSlug}}"
+          layout="{{articleLayout.next()}}" class="stack-cell"
+          img-src="{{step.image | url}}">
+        <span slot="caption">{% inlineMarkdown step.image_caption %}</span>
+        <h2>{% inlineMarkdown step.title %}</h2>
+        {% markdown step.description %}
+      </article-breakout>
+    {% endfor %}
+  </div>
+</section>
+
+<section id="conclusion" class="callout">
+  <h1>{% inlineMarkdown conclusion_title %}</h1>
+  {% markdown conclusion %}
+    <a href="{% contactUrl locale, submit_channel %}">
+      <button class="primary big">{{submit_button}}</button></a>
+</section>
+
+<script type="module">
+  import '/components/article-breakout.js';
+</script>

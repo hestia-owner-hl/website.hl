@@ -1,21 +1,37 @@
 ---
 layout: defaultWithHero
+inverse: true
 ---
-<section id="intro">
-  {{ content | safe }}
-</section>
-
 {% set articleLayout = cycler("card-alt", "card") %}
 <section id="partners">
   <div class="stack-layout with-gutters">
+    <article-breakout
+      class="grid-cell" layout="{{articleLayout.next()}}"
+      href="{% contactUrl locale, you_channel %}"
+      img-src="{{you_image | url}}">
+      <span slot="caption">{% inlineMarkdown you_image_caption %}</span>
+      <h2>{% inlineMarkdown you_title %}</h2>
+      {% markdown you_description %}
+      <button class="primary big">{{you_button}}</button>
+    </article-breakout>
+
     {% for partner in partners %}
+      {% set contact = partner.contact[0] %}
       <article-breakout
           class="grid-cell" layout="{{articleLayout.next()}}"
-          href="{{partner.url | url}}" img-src="{{partner.image | url}}">
+          {% if contact and contact.channel %}
+            href="{% contactUrl locale, contact.channel %}"
+          {% elif contact and contact.url %}
+            href="{{contact.url}}"
+          {% endif %}
+          href="{{partner.url | url}}"
+          img-src="{{partner.image}}">
         <span slot="caption">{% inlineMarkdown partner.image_caption %}</span>
         <h2>{% inlineMarkdown partner.title %}</h2>
         {% markdown partner.description %}
-        <button>{{partner.button}}</button>
+        {% if contact %}
+          <button>{{contact.button}}</button>
+        {% endif %}
       </article-breakout>
     {% endfor %}
   </div>

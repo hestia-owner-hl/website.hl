@@ -3,20 +3,20 @@
     <div class="header-cell-one-third">
       <a href="/{{locale}}" class="header-logo"
         role="img" aria-label="{{i18n.header_footer[locale].home}}">
-        <img src="/assets/img/placeholder-logo-web.export.svg"
-          onerror="this.onerror=null; this.src='/assets/img/placeholder-logo-web.export-390x147.png'"
-          height="49" width="130" alt="‹SITE-TITLE› logo">
+        <img src="/assets/img/hestialabs-logo+text.svg"
+          onerror="this.onerror=null; this.src='/assets/img/hestialabs-logo+text.export-390x147.png'"
+          height="46" width="122" alt="HestiaLabs logo">
       </a>
     </div>
     <div class="header-cell-two-thirds">
       <nav class="header-navigation">
         {% ilink page, "blog", locale %}{{i18n.header_footer[locale].blog}}{% endilink %}
-        {% ilink page, "mission", locale %}{{i18n.header_footer[locale].mission}}{% endilink %}
-        {% ilink page, "community", locale %}{{i18n.header_footer[locale].community}}{% endilink %}
+        {% ilink page, "strategy", locale %}{{i18n.header_footer[locale].strategy}}{% endilink %}
+        {% ilink page, "projects", locale %}{{i18n.header_footer[locale].projects}}{% endilink %}
         {% ilink page, "partners", locale %}{{i18n.header_footer[locale].partners}}{% endilink %}
-        {% for translation in translations %}
+        {#% for translation in translations %}
           {% ilink page, translation.page.url %}{{translation.locale}}{% endilink %}
-        {% endfor %}
+        {% endfor %#}
       </nav>
     </div>
   </div>

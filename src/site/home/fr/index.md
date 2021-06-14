@@ -1,6 +1,9 @@
 ---
 title: HestiaLabs
-lead: Prêt·e·s à reprendre le contrôle de vos données?
+lead: |-
+  Face à la collecte de données,\
+  Nous créons les **collectifs de données**\
+  Vous venez?
 lead_image: /assets/media/hl_home_hero-c-rodion-kutsaev-unsplash-c.jpeg
 lead_image_caption: Photo de [Rodion Kutsaev](https://unsplash.com/@frostroomhead)
 paragraph1_title: Ne subissez plus, choisissez

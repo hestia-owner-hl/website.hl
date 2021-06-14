@@ -1,6 +1,6 @@
 ---
 title: À propos
-lead: Une innovation basée sur les données? Nous avons les compétences pour le
+lead: Une innovation basée sur les données? Nous avons les compétences pour la
   réaliser\
 lead_image: /assets/media/hl_aboutus_hero-c-matt-ridley-unsplash-c.jpeg
 lead_image_caption: Photo de [Matt Ridley](https://unsplash.com/@mattwridley)

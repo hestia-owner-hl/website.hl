@@ -70,21 +70,22 @@ contact_other_channel: info
 timeline_title: How it started — how it's going
 timeline_events:
   - name: 0482-05-26T23:25:52.000Z
-    description: Paul-Olivier Dehaye helps uncover the Facebook-Cambridge Analytica scandal.
+    description: Paul-Olivier Dehaye participe à la révélation du scandale
+      Facebook-Cambridge Analytica.
     date: 2018-03-12T10:53:29.481Z
   - name: 0793-04-05T23:25:52.000Z
-    description: The Netflix documentary "[The Great
-      Hack](https://en.wikipedia.org/wiki/The_Great_Hack)" about the massive
-      theft of personal data for electoral purposes send shockwaves around the
-      world and triggers a click in Paul-Olivier Dehaye's head.
+    description: Le documentaire Netflix "[The Great
+      Hack](https://en.wikipedia.org/wiki/The_Great_Hack)" sur le vol massif de
+      données personnelles à des fins électorales déclenche une onde de choc
+      dans le monde entier et un déclic dans la tête de Paul-Olivier Dehaye.
     date: 2019-07-12T09:53:29.690Z
   - name: 1814-10-18T23:25:52.000Z
-    description: Launch of HestiaLabs to build a new digital world where users keep
-      control of their personal data.
+    description: Lancement d'HestiaLabs pour construire un nouveau monde numérique
+      où les utilisateurs ont le contrôle sur leurs données personnelles.
     date: 2021-04-12T09:53:29.798Z
   - name: 2021-04-08T15:09:42.588Z
-    description: You join us as a [partner](/en/partners/), a [project
-      leader](/en/contact/projects), or a [data sharer](/en/projects/) and start
-      turning the digital world around.
-    date: 2021-05-12T09:53:29.864Z
+    description: Rejoignez-nous en tant que [partenaire](/fr/partners/), [leader de
+      projet](/fr/contact/projects) ou [utilisateur](/fr/projects/) et commencez
+      à transformer le monde numérique.
+    date: 2021-06
 ---

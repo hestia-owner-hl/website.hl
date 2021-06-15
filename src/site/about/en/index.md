@@ -87,5 +87,5 @@ timeline_events:
     description: You join us as a [partner](/en/partners/), a [project
       leader](/en/contact/projects), or a [data sharer](/en/projects/) and start
       turning the digital world around.
-    date: 2021-05-12T09:53:29.864Z
+    date: 2021-06
 ---

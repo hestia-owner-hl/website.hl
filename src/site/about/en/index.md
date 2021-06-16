@@ -18,7 +18,7 @@ story: >-
   (2019).
 
 
-  “Paul-Olivier Dehaye is today one of the best experts on this issue in the world. His aim is not to climb this kind of summit any further. Rather to contribute to the emergence of solutions and instruments likely to bring about change”, wrote [Paris-Match](https://paris-match.ch/labecedaire-de-paul-olivier-dehaye/). HestiaLabs is one of them.
+  “Paul-Olivier Dehaye is today one of the best experts on this issue in the world. His aim is not to climb this kind of summit any further. Rather to contribute to the emergence of solutions and instruments likely to bring about change”, wrote [Paris-Match](https://paris-match.ch/labecedaire-de-paul-olivier-dehaye/). He built a team of developers, analysts, communicators, and created HestiaLabs to do so.
 contact_title: Contact us
 contact_project: Your project requires data analysis?
 contact_project_action: Click here. We might help!

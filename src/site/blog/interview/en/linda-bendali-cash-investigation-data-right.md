@@ -27,7 +27,7 @@ suggested:
     editorial: why-the-world-needs-data-collectives
 show_social_sharing: true
 ---
-**Your investigation caused a huge \[stir on social networks](**https://cartorezo.wordpress.com/2021/06/04/tres-fortes-reactions-sur-facebook-twitter-et-linkedin-suite-au-cash-sur-les-donnees-personnelles-lexploitation-en-catimini-des-infos-de-sante-fait-debat/**). But beyond these reactions, has it had any concrete impact on the digital malpractices that you expose?**
+**Your investigation caused a huge [stir on social networks](https://cartorezo.wordpress.com/2021/06/04/tres-fortes-reactions-sur-facebook-twitter-et-linkedin-suite-au-cash-sur-les-donnees-personnelles-lexploitation-en-catimini-des-infos-de-sante-fait-debat/). But beyond these reactions, has it had any concrete impact on the digital malpractices that you expose?**
 
 Yes, in the first week after the publication, the company ColdCRM closed and the MyGrossesse application was deactivated. The CNIL issued a press release announcing an investigation into the company Iqvia, which stores and processes health data of pharmacy customers in France. The same CNIL received a warning from a group of associations and trade unions concerning the authorisation it had given to Iqvia to enter a partnership with pharmacies for the exploitation of this health data. The concrete impacts are therefore significant.
 

@@ -25,7 +25,7 @@ suggested:
     editorial: why-the-world-needs-data-collectives
 show_social_sharing: true
 ---
-**Your investigation caused a huge [stir on social networks](**https://cartorezo.wordpress.com/2021/06/04/tres-fortes-reactions-sur-facebook-twitter-et-linkedin-suite-au-cash-sur-les-donnees-personnelles-lexploitation-en-catimini-des-infos-de-sante-fait-debat/**). But beyond these reactions, has it had any concrete impact on the digital malpractices that you expose?**
+**Your investigation caused a huge \[stir on social networks](**https://cartorezo.wordpress.com/2021/06/04/tres-fortes-reactions-sur-facebook-twitter-et-linkedin-suite-au-cash-sur-les-donnees-personnelles-lexploitation-en-catimini-des-infos-de-sante-fait-debat/**). But beyond these reactions, has it had any concrete impact on the digital malpractices that you expose?**
 
 Yes, in the first week after the publication, the company ColdCRM closed and the MyGrossesse application was deactivated. The CNIL issued a press release announcing an investigation into the company Iqvia, which stores and processes health data of pharmacy customers in France. The same CNIL received a warning from a group of associations and trade unions concerning the authorisation it had given to Iqvia to enter a partnership with pharmacies for the exploitation of this health data. The concrete impacts are therefore significant.
 
@@ -33,13 +33,13 @@ Yes, in the first week after the publication, the company ColdCRM closed and the
 
 Paul-Olivier helped me to understand how to write an access request and the mandatory steps for these SARs (Editor's Note: [Subject Access Requests](https://hestialabs.org/en/blog/editorial/ask-for-your-data/)) to succeed. I used some of the templates he put online. I contacted him in October 2019 and sent 40 of them between November and December of the same year. It's a huge job, finding the name of the DPO (ndlr: Data Protection Officer) for each company, the address where to send it... It doesn't show when you watch the report, but it represents the major part of the time I spent working on this investigation.
 
-You also came all the way to Lausanne to attend a “[participatory experiment](https://labs.letemps.ch/interactive/2020/longread-donnees-personnelles/)” during which some fifty readers of Le Temps were invited to collect their personal data from Facebook, their telephone operator or their health insurance. What did you learn from this?
+**You also came all the way to Lausanne to attend a “[participatory experiment](https://labs.letemps.ch/interactive/2020/longread-donnees-personnelles/)” during which some fifty readers of Le Temps were invited to collect their personal data from Facebook, their telephone operator or their health insurance. What did you learn from this?**
 
 After tearing my hair out to get my data, I wanted to see how people would react to this approach. Le Temps' initiative is great for two reasons: the newspaper made noise about a little-known right, and it pushed people to exercise that right. The more you exercise a right, the easier it is to exercise it. It is therefore very important that there are more initiatives of this kind in the future, and that there is more support for dealing with the complexity of access requests.
 
 > With its partner PersonalData.io, HestiaLabs simplifies this process by developing personal data request generators. Try [the one developed for Le Temps](https://labs.letemps.ch/interactive/2020/demander-ses-donnees/), and [the one for Dating Privacy](https://dating-privacy.hestialabs.org/en/act/sar/) (focus on dating apps).
 
-When Cash Investigation does this, there are over 100,000 reactions on social networks and investigations are immediately launched. But you know as well as I do that if a “normal” citizen does it, nothing will happen, right? It's a bit discouraging...
+**When Cash Investigation does this, there are over 100,000 reactions on social networks and investigations are immediately launched. But you know as well as I do that if a “normal” citizen does it, nothing will happen, right? It's a bit discouraging...**
 
 I am an average citizen. As we say in the report, I made 40 requests for access, and I only received one response within the time limit set by the GDPR law, which is one month. After four months, I had only received 13. We need to talk about this problem to get things moving. That is the role of the media. A film like the one I made, other investigations on this subject, the increasing number of scandals about data leaks... all of this ends up forcing companies to put the right processes in place. Do not forget that the GDPR is only three years old.
 

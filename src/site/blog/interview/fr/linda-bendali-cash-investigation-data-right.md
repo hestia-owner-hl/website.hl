@@ -1,6 +1,6 @@
 ---
-title: "« Plus on exercera notre droit d’accès à nos données personnelles, plus
-  il sera facile de l’exercer », selon Linda Bendali\r"
+title: «Plus on exercera notre droit d’accès à nos données personnelles, plus il
+  sera facile de l’exercer», selon Linda Bendali
 date: 2021-06-18T06:30:07.312Z
 lead: Membre de l’équipe d’Élise Lucet pour la célèbre émission de France 2 «
   Cash investigation », Linda Bendali a créé une vive émotion en France et
@@ -12,6 +12,10 @@ lead: Membre de l’équipe d’Élise Lucet pour la célèbre émission de Fran
   première diffusion (20 mai 2021), elle revient sur l’onde de choc provoquée
   par son travail et invite tout un chacun à le poursuivre en demandant, comme
   elle, l’accès à ses données.
+post_categories:
+  - data-rights
+post_authors:
+  - cfd
 suggested:
   - type: editorial
     editorial: ask-for-your-data

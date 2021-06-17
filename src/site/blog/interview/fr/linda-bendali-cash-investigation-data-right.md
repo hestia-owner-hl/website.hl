@@ -4,15 +4,14 @@ title: «Plus on exercera notre droit d’accès à nos données personnelles, p
 date: 2021-06-18T06:30:07.312Z
 image: /assets/media/hl_blog_linda_bendali-c-france.tv-c.png
 image_caption: "Linda Bendali, journaliste pour Cash Investigation / Crédit photo: France.tv"
-lead: Membre de l’équipe d’Élise Lucet pour la célèbre émission de France 2 «
-  Cash investigation », Linda Bendali a créé une vive émotion en France et
-  au-delà avec son enquête intitulée « Nos données personnelles valent de l’or
-  !», diffusée le 20 mai 2021. Pour ce reportage, la journaliste d’investigation
-  a sollicité l’aide du fondateur d’HestiaLabs pour demander à 40 entreprises
-  les données qu’elles possédaient sur elle. Un mois après la première diffusion
-  (20 mai 2021), elle revient sur l’onde de choc provoquée par son travail et
-  invite tout un chacun à le poursuivre en demandant, comme elle, l’accès à ses
-  données.
+lead: Membre de l’équipe d’Élise Lucet pour la célèbre émission de France 2
+  «Cash investigation», Linda Bendali a créé une vive émotion en France et
+  au-delà avec son enquête intitulée «Nos données personnelles valent de l’or
+  !». Pour ce reportage, la journaliste d’investigation a sollicité l’aide du
+  fondateur d’HestiaLabs pour demander à 40 entreprises les données qu’elles
+  possédaient sur elle. Un mois après la première diffusion (20 mai 2021), elle
+  revient sur l’onde de choc provoquée par son travail et invite tout un chacun
+  à le poursuivre en demandant, comme elle, l’accès à ses données.
 post_categories:
   - data-rights
 post_authors:

@@ -6,14 +6,13 @@ image: /assets/media/hl_blog_linda_bendali-c-france.tv-c.png
 image_caption: "Linda Bendali, journaliste pour Cash Investigation / Crédit photo: France.tv"
 lead: Membre de l’équipe d’Élise Lucet pour la célèbre émission de France 2 «
   Cash investigation », Linda Bendali a créé une vive émotion en France et
-  au-delà avec son enquête intitulée [« Nos données personnelles valent de l’or
-  !»](https://www.france.tv/france-2/cash-investigation/2450927-nos-donnees-personnelles-valent-de-l-or.html),
-  diffusée le 20 mai 2021. Pour ce reportage, la journaliste d’investigation a
-  sollicité l’aide du fondateur d’[HestiaLabs](/fr/about/) pour demander à 40
-  entreprises les données qu’elles possédaient sur elle. Un mois après la
-  première diffusion (20 mai 2021), elle revient sur l’onde de choc provoquée
-  par son travail et invite tout un chacun à le poursuivre en demandant, comme
-  elle, l’accès à ses données.
+  au-delà avec son enquête intitulée « Nos données personnelles valent de l’or
+  !», diffusée le 20 mai 2021. Pour ce reportage, la journaliste d’investigation
+  a sollicité l’aide du fondateur d’HestiaLabs pour demander à 40 entreprises
+  les données qu’elles possédaient sur elle. Un mois après la première diffusion
+  (20 mai 2021), elle revient sur l’onde de choc provoquée par son travail et
+  invite tout un chacun à le poursuivre en demandant, comme elle, l’accès à ses
+  données.
 post_categories:
   - data-rights
 post_authors:
@@ -27,11 +26,11 @@ suggested:
     editorial: why-the-world-needs-data-collectives
 show_social_sharing: true
 ---
-**Votre enquête a suscité un très vif [émoi sur les réseaux sociaux](https://cartorezo.wordpress.com/2021/06/04/tres-fortes-reactions-sur-facebook-twitter-et-linkedin-suite-au-cash-sur-les-donnees-personnelles-lexploitation-en-catimini-des-infos-de-sante-fait-debat/). Mais au-delà de ces réactions, a-t-elle eu des impacts concrets sur les mauvaises pratiques numériques que vous dénoncez ?**
+**[Votre enquête](https://www.france.tv/france-2/cash-investigation/2450927-nos-donnees-personnelles-valent-de-l-or.html) a suscité un très vif [émoi sur les réseaux sociaux](https://cartorezo.wordpress.com/2021/06/04/tres-fortes-reactions-sur-facebook-twitter-et-linkedin-suite-au-cash-sur-les-donnees-personnelles-lexploitation-en-catimini-des-infos-de-sante-fait-debat/). Mais au-delà de ces réactions, a-t-elle eu des impacts concrets sur les mauvaises pratiques numériques que vous dénoncez ?**
 
 Oui, dès la première semaine après la diffusion, l’entreprise ColdCRM a fermé et l’application MyGrossesse a été désactivée. La CNIL a publié un communiqué pour annoncer une enquête sur l’entreprise Iqvia, qui stocke et traite des données de santé de clients de pharmacies en France. La même CNIL a reçu un signalement de la part d’un collectif d’associations et de syndicats concernant l’autorisation qu’elle a accordé à Iqvia de passer un partenariat avec les pharmacies pour l’exploitation de ces données de santé. Les impacts concrets sont donc conséquents.
 
-**En quoi le fondateur d'HestiaLabs vous a-t-il aidée à réaliser cette enquête ?**
+**En quoi le fondateur d'[HestiaLabs](/fr/about/) vous a-t-il aidée à réaliser cette enquête ?**
 
 Paul-Olivier m’a permis de comprendre comment rédiger une demande d’accès et les étapes obligatoires pour qu’aboutissent ces SARs (ndrl : Subject access requests). Je me suis appuyée sur certains des modèles qu’il a mis en ligne. Je l’ai contacté en octobre 2019 et en ai envoyé 40 entre novembre et décembre de la même année. C’est un travail colossal, trouver le nom du DPO (ndlr : Délégué à la protection des données) pour chaque entreprise, l’adresse où l’envoyer… Cela ne se voit pas quand on regarde le reportage, mais cela représente la majeure partie du temps que j'ai consacré à cette enquête.
 

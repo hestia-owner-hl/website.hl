@@ -7,13 +7,11 @@ image: /assets/media/hl_blog_linda_bendali-c-france.tv-c.png
 image_caption: "Linda Bendali, journalist for Cash Investigation / Photo credit: France.tv"
 lead: Member of Elise Lucet's team for the famous France 2 programme “Cash
   investigation”, Linda Bendali created a stir in France and beyond with her
-  investigation entitled [“Our personal data is worth
-  gold!”](https://www.france.tv/france-2/cash-investigation/2450927-nos-donnees-personnelles-valent-de-l-or.html).
-  For this report, the investigative journalist approached the founder of
-  [HestiaLabs](/en/about/) to ask 40 companies for the data they had on her. One
-  month after the first broadcast (20 May 2021), she looks back on the
-  shockwaves caused by her work and invites everyone to continue it by asking,
-  as she did, for access to their data.
+  investigation entitled “Our personal data is worth gold!”. For this report,
+  the investigative journalist approached the founder of HestiaLabs to ask 40
+  companies for the data they had on her. One month after the first broadcast
+  (20 May 2021), she looks back on the shockwaves caused by her work and invites
+  everyone to continue it by asking, as she did, for access to their data.
 post_categories:
   - data-rights
 post_authors:
@@ -27,11 +25,11 @@ suggested:
     editorial: why-the-world-needs-data-collectives
 show_social_sharing: true
 ---
-**Your investigation caused a huge [stir on social networks](https://cartorezo.wordpress.com/2021/06/04/tres-fortes-reactions-sur-facebook-twitter-et-linkedin-suite-au-cash-sur-les-donnees-personnelles-lexploitation-en-catimini-des-infos-de-sante-fait-debat/). But beyond these reactions, has it had any concrete impact on the digital malpractices that you expose?**
+**[Your investigation](https://www.france.tv/france-2/cash-investigation/2450927-nos-donnees-personnelles-valent-de-l-or.html) caused a huge [stir on social networks](https://cartorezo.wordpress.com/2021/06/04/tres-fortes-reactions-sur-facebook-twitter-et-linkedin-suite-au-cash-sur-les-donnees-personnelles-lexploitation-en-catimini-des-infos-de-sante-fait-debat/). But beyond these reactions, has it had any concrete impact on the digital malpractices that you expose?**
 
 Yes, in the first week after the publication, the company ColdCRM closed and the MyGrossesse application was deactivated. The CNIL issued a press release announcing an investigation into the company Iqvia, which stores and processes health data of pharmacy customers in France. The same CNIL received a warning from a group of associations and trade unions concerning the authorisation it had given to Iqvia to enter a partnership with pharmacies for the exploitation of this health data. The concrete impacts are therefore significant.
 
-**How did HestiaLabs'founder help you carry out this survey?**
+**How did [HestiaLabs](/en/about/)'founder help you carry out this survey?**
 
 Paul-Olivier helped me to understand how to write an access request and the mandatory steps for these SARs (Editor's Note: [Subject Access Requests](https://hestialabs.org/en/blog/editorial/ask-for-your-data/)) to succeed. I used some of the templates he put online. I contacted him in October 2019 and sent 40 of them between November and December of the same year. It's a huge job, finding the name of the DPO (ndlr: Data Protection Officer) for each company, the address where to send it... It doesn't show when you watch the report, but it represents the major part of the time I spent working on this investigation.
 

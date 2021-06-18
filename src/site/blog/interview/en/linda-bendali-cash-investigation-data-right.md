@@ -1,6 +1,6 @@
 ---
 id: Linda-Bendali-Cash-Investigation-Data-Right
-title: Linda Bendali:“The more we exercise the right to access our personal
+title: Linda Bendali:“The more we exercise the right of access to our personal
   data, the easier it will be to exercise it”
 date: 2021-06-18T12:21:10.267Z
 image: /assets/media/hl_blog_linda_bendali-c-france.tv-c.png

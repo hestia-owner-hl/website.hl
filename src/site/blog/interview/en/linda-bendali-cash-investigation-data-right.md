@@ -2,7 +2,7 @@
 id: Linda-Bendali-Cash-Investigation-Data-Right
 title: Linda Bendali:“The more we exercise the right to access our personal
   data, the easier it will be to exercise it”
-date: 2021-06-18T06:30:07.187Z
+date: 2021-06-18T12:21:10.267Z
 image: /assets/media/hl_blog_linda_bendali-c-france.tv-c.png
 image_caption: "Linda Bendali, journalist for Cash Investigation / Photo credit: France.tv"
 lead: Member of Elise Lucet's team for the famous France 2 programme “Cash

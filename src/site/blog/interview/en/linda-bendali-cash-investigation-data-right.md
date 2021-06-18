@@ -8,10 +8,10 @@ image_caption: "Linda Bendali, journalist for Cash Investigation / Photo credit:
 lead: Member of Elise Lucet's team for the famous France 2 programme “Cash
   investigation”, Linda Bendali created a stir in France and beyond with her
   investigation entitled “Our personal data is worth gold!”. For this report,
-  the investigative journalist approached the founder of HestiaLabs to ask 40
-  companies for the data they had on her. One month after the first broadcast
-  (20 May 2021), she looks back on the shockwaves caused by her work and invites
-  everyone to continue it by asking, as she did, for access to their data.
+  the journalist approached the founder of HestiaLabs to ask 40 companies for
+  the data they had on her. One month after the first broadcast (20 May 2021),
+  she looks back on the shockwaves caused by her work and invites everyone to
+  continue it by asking, as she did, for access to their data.
 post_categories:
   - data-rights
 post_authors:

@@ -35,7 +35,7 @@ Paul-Olivier helped me to understand how to write an access request and the mand
 
 **You also came all the way to Lausanne to attend a “[participatory experiment](https://labs.letemps.ch/interactive/2020/longread-donnees-personnelles/)” during which some fifty readers of Le Temps were invited to collect their personal data from Facebook, their telephone operator or their health insurance. What did you learn from this?**
 
-After tearing my hair out to get my data, I wanted to see how people would react to this approach. Le Temps' initiative is great for two reasons: the newspaper made noise about a little-known right, and it pushed people to exercise that right. The more you exercise a right, the easier it is to exercise it. It is therefore very important that there are more initiatives of this kind in the future, and that there is more support for dealing with the complexity of access requests.
+After tearing my hair out to get my data, I wanted to see how people would react to this approach. Le Temps' initiative is great for two reasons: the newspaper made noise about a [little-known right](https://gdpr-info.eu/issues/right-of-access/), and it pushed people to exercise that right. The more you exercise a right, the easier it is to exercise it. It is therefore very important that there are more initiatives of this kind in the future, and that there is more support for dealing with the complexity of access requests.
 
 > With its partner PersonalData.io, HestiaLabs simplifies this process by developing personal data request generators. Try [the one developed for Le Temps](https://labs.letemps.ch/interactive/2020/demander-ses-donnees/), and [the one for Dating Privacy](https://dating-privacy.hestialabs.org/en/act/sar/) (focus on dating apps).
 

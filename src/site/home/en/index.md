@@ -54,10 +54,10 @@ subtitle_2: We support data collectives
 permalink: /en/index.html
 news_title: News and events
 news:
+  - type: interview
+    interview: Linda-Bendali-Cash-Investigation-Data-Right
   - type: editorial
     editorial: ask-for-your-data
   - type: editorial
     editorial: hestialabs-is-a-technical-and-legal-support-for-our-collective-explains-jessica-pidoux
-  - type: editorial
-    editorial: personal-data-and-public-space-dont-trip-on-the-curb
 ---

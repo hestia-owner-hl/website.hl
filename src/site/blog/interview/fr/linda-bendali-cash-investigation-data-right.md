@@ -1,7 +1,7 @@
 ---
 title: «Plus on exercera notre droit d’accès à nos données personnelles, plus il
   sera facile de l’exercer», selon Linda Bendali
-date: 2021-06-18T06:30:07.312Z
+date: 2021-06-18T12:21:11.513Z
 image: /assets/media/hl_blog_linda_bendali-c-france.tv-c.png
 image_caption: "Linda Bendali, journaliste pour Cash Investigation / Crédit photo: France.tv"
 lead: Membre de l’équipe d’Élise Lucet pour la célèbre émission de France 2

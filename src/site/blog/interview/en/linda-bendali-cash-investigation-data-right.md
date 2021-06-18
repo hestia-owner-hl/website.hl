@@ -43,7 +43,7 @@ After tearing my hair out to get my data, I wanted to see how people would react
 
 I am an average citizen. As we say in the report, I made 40 requests for access, and I only received one response within the time limit set by the GDPR law, which is one month. After four months, I had only received 13. We need to talk about this problem to get things moving. That is the role of the media. A film like the one I made, other investigations on this subject, the increasing number of scandals about data leaks... all of this ends up forcing companies to put the right processes in place. Do not forget that the GDPR is only three years old.
 
-> You are a journalist and you wants to use the right of access to further your investigation? We can help you. [Contact us](/en/contact/projects).
+> You are a journalist and you want to use the right of access to further your investigation? We can help you. [Contact us](/en/contact/projects).
 
 **In your report, Élise Lucet questioned the French Secretary of State for the Digital Economy, Cédric O, about the few answers you received. He regretted it. But how can you be sure that this regret will be followed up?**
 

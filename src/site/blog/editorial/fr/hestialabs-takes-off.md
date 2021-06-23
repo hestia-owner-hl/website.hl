@@ -13,7 +13,7 @@ post_authors:
   - cfd
 suggested:
   - type: editorial
-    editorial: uber-trial-amsterdam
+    post: uber-trial-amsterdam
 show_social_sharing: true
 ---
 We are on the verge of creating the complex tools needed for user collectives to take back control of their data and innovate together.

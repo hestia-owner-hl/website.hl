@@ -15,9 +15,9 @@ post_authors:
   - cfd
 suggested:
   - type: editorial
-    editorial: why-the-world-needs-data-collectives
+    post: why-the-world-needs-data-collectives
   - type: interview
-    interview: hestialabs-wants-to-create-data-short-cycles
+    post: hestialabs-wants-to-create-data-short-cycles
 show_social_sharing: true
 ---
 Vous en étiez-vous rendu compte ? Le trottoir est une interface. On se gare devant, on y recharge sa voiture électrique, on y emprunte un vélo ou une trottinette en libre-service, on y récupère un véhicule de location ou partagé, on y collecte un colis et notre courrier, on s’y fait livrer un dîner, on s’y fait déposer en bus ou en VTC…

@@ -14,11 +14,11 @@ post_authors:
   - cfd
 suggested:
   - type: editorial
-    editorial: why-the-world-needs-data-collectives
+    post: why-the-world-needs-data-collectives
   - type: interview
-    interview: hestialabs-wants-to-create-data-short-cycles
+    post: hestialabs-wants-to-create-data-short-cycles
   - type: editorial
-    editorial: hestialabs-is-a-technical-and-legal-support-for-our-collective-explains-jessica-pidoux
+    post: hestialabs-is-a-technical-and-legal-support-for-our-collective-explains-jessica-pidoux
 show_social_sharing: true
 ---
 Posting or commenting on a social network, searching for a train or bus schedule, and buying a ticket online, swiping on a [dating application](https://dating-privacy.hestialabs.org/en/), finding your way on Google Maps, making a contactless payment, playing a network game, checking your bank account or your favourite recipe...: everything you do on the internet with your computer or smartphone leaves traces. These traces are your data. This data belongs to you, and you have the right to consult it.

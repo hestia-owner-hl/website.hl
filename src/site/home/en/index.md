@@ -55,9 +55,9 @@ permalink: /en/index.html
 news_title: News and events
 news:
   - type: interview
-    interview: Linda-Bendali-Cash-Investigation-Data-Right
+    post: Linda-Bendali-Cash-Investigation-Data-Right
   - type: editorial
-    editorial: ask-for-your-data
+    post: ask-for-your-data
   - type: editorial
-    editorial: hestialabs-is-a-technical-and-legal-support-for-our-collective-explains-jessica-pidoux
+    post: hestialabs-is-a-technical-and-legal-support-for-our-collective-explains-jessica-pidoux
 ---

@@ -13,11 +13,11 @@ post_authors:
   - cfd
 suggested:
   - type: editorial
-    editorial: hestialabs-takes-off
+    post: hestialabs-takes-off
   - type: interview
-    interview: hestialabs-wants-to-create-data-short-cycles
+    post: hestialabs-wants-to-create-data-short-cycles
   - type: infographic
-    infographic: 5-key-actors-for-impactful-data-collectives
+    post: 5-key-actors-for-impactful-data-collectives
 show_social_sharing: true
 ---
 HestiaLabs wants to change the world with “data collectives”. What does this mean? That rather than sharing all your data with a few giant monopolies that (ab)use it without your knowledge, you will now have a choice. The choice of who you share your data with and for what. You will decide to share it or not. You will decide to share it with this project, but not that one. You will decide what benefits you will get in return. 

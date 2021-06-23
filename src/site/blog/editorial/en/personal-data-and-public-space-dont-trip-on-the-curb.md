@@ -15,11 +15,11 @@ post_authors:
   - cfd
 suggested:
   - type: editorial
-    editorial: why-the-world-needs-data-collectives
+    post: why-the-world-needs-data-collectives
   - type: interview
-    interview: hestialabs-wants-to-create-data-short-cycles
+    post: hestialabs-wants-to-create-data-short-cycles
   - type: infographic
-    infographic: 5-key-actors-for-impactful-data-collectives
+    post: 5-key-actors-for-impactful-data-collectives
 show_social_sharing: true
 ---
 Did you realise this? The curb is an interface. We park in front of it, we charge our electric car, we borrow a bike or a self-service scooter, we pick up a rented or shared vehicle, we collect a parcel and our mail, we have dinner delivered there, we are dropped off by bus or by VTC...

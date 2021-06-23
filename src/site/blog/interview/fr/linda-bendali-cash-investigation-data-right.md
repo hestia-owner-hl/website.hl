@@ -18,11 +18,11 @@ post_authors:
   - cfd
 suggested:
   - type: editorial
-    editorial: ask-for-your-data
+    post: ask-for-your-data
   - type: editorial
-    editorial: hestialabs-is-a-technical-and-legal-support-for-our-collective-explains-jessica-pidoux
+    post: hestialabs-is-a-technical-and-legal-support-for-our-collective-explains-jessica-pidoux
   - type: editorial
-    editorial: why-the-world-needs-data-collectives
+    post: why-the-world-needs-data-collectives
 show_social_sharing: true
 ---
 **[Votre enquête](https://www.france.tv/france-2/cash-investigation/2450927-nos-donnees-personnelles-valent-de-l-or.html) a suscité un très vif [émoi sur les réseaux sociaux](https://cartorezo.wordpress.com/2021/06/04/tres-fortes-reactions-sur-facebook-twitter-et-linkedin-suite-au-cash-sur-les-donnees-personnelles-lexploitation-en-catimini-des-infos-de-sante-fait-debat/). Mais au-delà de ces réactions, a-t-elle eu des impacts concrets sur les mauvaises pratiques numériques que vous dénoncez ?**

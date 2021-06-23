@@ -16,11 +16,11 @@ post_authors:
   - cfd
 suggested:
   - type: editorial
-    editorial: why-the-world-needs-data-collectives
+    post: why-the-world-needs-data-collectives
   - type: interview
-    interview: hestialabs-wants-to-create-data-short-cycles
+    post: hestialabs-wants-to-create-data-short-cycles
   - type: infographic
-    infographic: 5-key-actors-for-impactful-data-collectives
+    post: 5-key-actors-for-impactful-data-collectives
 show_social_sharing: true
 ---
 (...)

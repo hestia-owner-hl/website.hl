@@ -22,11 +22,11 @@ post_authors:
   - cfd
 suggested:
   - type: editorial
-    editorial: hestialabs-takes-off
+    post: hestialabs-takes-off
   - type: interview
-    interview: people-will-just-use-hestialabs-and-invent
+    post: people-will-just-use-hestialabs-and-invent
   - type: infographic
-    infographic: 5-key-actors-for-impactful-data-collectives
+    post: 5-key-actors-for-impactful-data-collectives
 show_social_sharing: true
 ---
 **What is HestiaLabs?**

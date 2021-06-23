@@ -55,9 +55,9 @@ permalink: /fr/index.html
 news_title: Actus et événements
 news:
   - type: editorial
-    editorial: ask-for-your-data
+    post: ask-for-your-data
   - type: editorial
-    editorial: hestialabs-is-a-technical-and-legal-support-for-our-collective-explains-jessica-pidoux
+    post: hestialabs-is-a-technical-and-legal-support-for-our-collective-explains-jessica-pidoux
   - type: editorial
-    editorial: personal-data-and-public-space-dont-trip-on-the-curb
+    post: personal-data-and-public-space-dont-trip-on-the-curb
 ---

@@ -22,11 +22,11 @@ post_authors:
   - cfd
 suggested:
   - type: editorial
-    editorial: hestialabs-takes-off
+    post: hestialabs-takes-off
   - type: editorial
-    editorial: uber-trial-amsterdam
+    post: uber-trial-amsterdam
   - type: infographic
-    infographic: 5-key-actors-for-impactful-data-collectives
+    post: 5-key-actors-for-impactful-data-collectives
 show_social_sharing: true
 ---
 **Unlike most foundations, the Migros Pioneer Fund does not accept applications but actively seeks projects with a long-term benefit to society. When and how did you spot HestiaLabs?**

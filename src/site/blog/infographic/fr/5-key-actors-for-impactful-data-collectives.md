@@ -15,6 +15,6 @@ post_authors:
   - cfd
 suggested:
   - type: editorial
-    editorial: hestialabs-takes-off
+    post: hestialabs-takes-off
 show_social_sharing: true
 ---

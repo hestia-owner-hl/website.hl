@@ -16,9 +16,18 @@
         {% ilink page, "about/#contact", locale %}{{i18n.header_footer[locale].contact}}{% endilink %}
       </nav>
       <nav class="footer-navigation">
-        <a href="{{links.twitter_url}}"  rel="nofollow noopener">{{links.twitter_label}}</a>
-        <a href="{{links.linkedin_url}}" rel="nofollow noopener">{{links.linkedin_label}}</a>
-        <a href="{{links.facebook_url}}" rel="nofollow noopener">{{links.facebook_label}}</a>
+        {% if links.twitter_url %}
+          <a href="{{links.twitter_url}}"  rel="nofollow noopener">{{links.twitter_label}}</a>
+        {% endif %}
+        {% if links.linkedin_url %}
+           <a href="{{links.linkedin_url}}" rel="nofollow noopener">{{links.linkedin_label}}</a>
+        {% endif %}
+        {% if links.facebook_url %}
+           <a href="{{links.facebook_url}}" rel="nofollow noopener">{{links.facebook_label}}</a>
+        {% endif %}
+        {% for link in links.additional_links %}
+          <a href="{{link.url}}" rel="nofollow noopener">{{link.name}}</a>
+        {% endfor %}
       </nav>
     </div>
   </div>

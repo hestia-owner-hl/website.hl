@@ -239,7 +239,7 @@ collections:
         - { label: "Description", name: description, required: false, widget: markdown, i18n: true }
         - { label: "Link text", name: link_text, required: false, widget: string, i18n: true }
         - { label: Link, name: url, required: false, widget: file, i18n: true,
-            hint: 'Write a relative url if you link to another page on this website. (for example "partners", not "/partners")'}
+            hint: 'Write a relative url if you link to another page on this website. (for example "partners/", not "/partners/")'}
         - { label: "Colored button", name: primary_button, required: false, widget: boolean, i18n: true }
     - { label: "Projects title", name: projects_title, required: false, i18n: true,
         widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}

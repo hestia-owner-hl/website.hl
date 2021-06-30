@@ -7,36 +7,8 @@ inverse: true
   the code to `home/en/index.html` and `home/fr/index.html`
 #}
 <section id="purpose">
-  <h1>{% inlineMarkdown paragraph1_title %}</h1>
+  <h1>{% inlineMarkdown paragraphs_title %}</h1>
   <div class="grid-layout-halves with-gutters">
-    {% if problem_title %}
-    <div class="grid-cell">
-      <h2>{% inlineMarkdown problem_title %}</h2>
-      {% markdown problem_description %}
-    </div>
-    {% endif %}
-    {% if strategy_title %}
-    <div class="grid-cell">
-      <h2>{% inlineMarkdown strategy_title %}</h2>
-      {% markdown strategy_description %}
-      <a href="/{{locale}}/strategy"><button>{{strategy_link_text}}</button></a>
-    </div>
-    {% endif %}
-    {% if join_title %}
-    <div class="grid-cell">
-      <h2>{% inlineMarkdown join_title %}</h2>
-      {% markdown join_description %}
-      <a href="{% contactUrl locale, join_channel %}"
-         ><button class="primary">{{join_link_text}}</button></a>
-    </div>
-    {% endif %}
-    {% if partners_title %}
-    <div class="grid-cell">
-      <h2>{% inlineMarkdown partners_title %}</h2>
-      {% markdown partners_description %}
-      <a href="/{{locale}}/partners"><button>{{partners_link_text}}</button></a>
-    </div>
-    {% endif %}
     {% for paragraph in paragraphs %}
       <div class="grid-cell">
         <h2>{% inlineMarkdown paragraph.title %}</h2>

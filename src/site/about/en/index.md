@@ -1,4 +1,7 @@
 ---
+contact_sharer_action: Check our running projects
+contact_sharer_url: /en/projects/
+contact_other_action: Write us
 title: About us
 lead: |-
   Dreaming of a data-driven breakthrough? We have the skills to make it happen\
@@ -24,19 +27,16 @@ contact_project: Your project requires data analysis?
 contact_project_action: Click here. We might help!
 contact_project_channel: projects
 contact_sharer: You would like to share your data in a constructive way (without being cheated)
-contact_sharer_action: Check our running projects
-contact_sharer_url: /en/projects/
-contact_other_action: Write us
 contact_partner: You feel like you would be a valuable partner for HestiaLabs?
 contact_partner_action: Get in touch with Marie-Pierre
-contact_partner_channel: partners
 contact_media: Are you a journalist?
-contact_media_action: This page is just for you
-contact_media_url: /en/media/
-contact_other: Something else?
 people_title: People
 layout: about
 permalink: /en/about/index.html
+contact_partner_channel: partners
+contact_media_action: This page is just for you
+contact_media_url: /en/media/
+contact_other: Something else?
 people:
   - name: Paul-Olivier Dehaye
     description: Paul-Olivier is a mathematician by training who became interested
@@ -45,18 +45,18 @@ people:
       PersonalData.io and sits on the board of MyData Global. He is the **CEO**
       of Hestia.ai, the company running the HestiaLabs project.
     twitter: https://twitter.com/podehaye
-    image: /assets/media/blue_background.jpg
+    image: /assets/media/paul-olivier-dehaye-c-hestia.ai-c.jpg
   - name: Marie-Pierre Vidonne
     description: Marie-Pierre is a Physicist. After several years spent in R&D in
       both public and private sectors, Marie-Pierre joined Hestia in February
       2021 as **analyst and grant officer**.
-    image: /assets/media/marie-pierre-vidonne-for-hestia.jpeg
+    image: /assets/media/marie-pierre-vidonne-c-hestia.ai-c.jpg
   - name: Charles Foucault-Dumas
     description: A science journalist and [writer](https://foucault-dumas.ch/),
       Charles launched the media L'Usine Digitale before heading the NGO
       Empowerment Foundation for a human-centered digital world. He joined
       HestiaLabs in January 2021 as **Head of Communications**.
-    image: /assets/media/charles_square.jpg
+    image: /assets/media/charles-foucault-dumas-c-hestia.ai-c.jpg
     twitter: https://twitter.com/lettweetbe
     linkedin: https://www.linkedin.com/in/charlesfoucaultdumas/
   - name: Andreas Kündig
@@ -65,7 +65,7 @@ people:
       he has been using at least one of these skills to drive HestiaLabs
       forward. Andreas has worked in a wide range of industries and
       organisations, including two early-stage tech startups.
-    image: /assets/media/hl-aboutus-andreaskundig-c-teclaire-kuendig-c.jpg
+    image: /assets/media/andreas-kündig-c-hestia.ai-c.jpg
     linkedin: https://www.linkedin.com/in/andreas-k%C3%BCndig-73b422b/
 contact_other_channel: info
 timeline_title: How it started — how it's going

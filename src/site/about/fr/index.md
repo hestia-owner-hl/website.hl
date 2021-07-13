@@ -67,7 +67,7 @@ people:
     image: /assets/media/andreas-kündig-c-hestia.ai-c.jpg
     linkedin: https://www.linkedin.com/in/andreas-k%C3%BCndig-73b422b/
 contact_other_channel: info
-timeline_title: How it started — how it's going
+timeline_title: Où en sommes-nous?
 timeline_events:
   - name: 0482-05-26T23:25:52.000Z
     description: Paul-Olivier Dehaye participe à la révélation du scandale

@@ -8,6 +8,7 @@ image: /assets/media/disinformation_project-c-united-nations-unsplash-c.jpeg
 image_caption: Photo by [United Nations COVID-19
   Response](https://unsplash.com/@unitednations) on
   [Unsplash](https://unsplash.com/)
+url: https://eyeballs.hestialabs.org/en/
 contact:
   - type: contact
     button: Join the project

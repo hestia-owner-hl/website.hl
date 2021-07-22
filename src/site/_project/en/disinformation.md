@@ -6,8 +6,7 @@ description: We get lots of information thrown at us all day. Some is targeted,
   our engagement, to get a better handle on the consequences.
 image: /assets/media/disinformation_project-c-united-nations-unsplash-c.jpeg
 image_caption: Photo by [United Nations COVID-19
-  Response](https://unsplash.com/@unitednations) on
-  [Unsplash](https://unsplash.com/)
+  Response](https://unsplash.com/@unitednations)
 url: https://eyeballs.hestialabs.org/en/
 contact:
   - type: contact

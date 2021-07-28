@@ -7,9 +7,9 @@ description: We get lots of information thrown at us all day. Some is targeted,
 image: /assets/media/disinformation_project-c-united-nations-unsplash-c.jpeg
 image_caption: Photo by [United Nations COVID-19
   Response](https://unsplash.com/@unitednations)
-url: https://eyeballs.hestialabs.org/en/
+url: null
 contact:
-  - type: contact
-    button: Join the project
-    channel: projects
+  - type: link
+    button: Website
+    url: https://eyeballs.hestialabs.org/en/
 ---

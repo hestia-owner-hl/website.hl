@@ -66,7 +66,7 @@ your_content: >-
   Do you believe that, in your field, data producers (you, me, them, everybody) should be able to decide which of their data are used and for what purpose?
 your_button: Submit a project
 your_channel: projects
-running_projects_title: 1 Running project
+running_projects_title: 2 Running projects
 running_projects_button: Website
 running_projects:
   - dating privacy

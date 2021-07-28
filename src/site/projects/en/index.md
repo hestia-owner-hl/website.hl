@@ -71,7 +71,7 @@ running_projects_button: Website
 running_projects:
   - dating privacy
   - disinformation
-launchpad_projects_title: 4 projects on the launchpad
+launchpad_projects_title: 3 projects on the launchpad
 launchpad_projects_button: Join the project
 launchpad_projects:
   - uber-drivers

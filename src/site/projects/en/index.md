@@ -1,33 +1,16 @@
 ---
+channel: projects
 layout: projects
 permalink: /en/projects/index.html
 title: Projects
 lead: |-
   Already 5 projects underway\
   **What's yours?**
-lead_image_caption: Photo by [Jess Bailey](https://unsplash.com/@jessbaileydesigns) 
-  on [Unsplash](https://unsplash.com/photos/Ffh_ofq9f08)
 lead_image: /assets/media/hl_projects_hero_c-jess-bailey-ffh_ofq9f08-unsplash-c.jpeg
-channel: projects
+lead_image_caption: Photo by [Jess
+  Bailey](https://unsplash.com/@jessbaileydesigns) on
+  [Unsplash](https://unsplash.com/photos/Ffh_ofq9f08)
 introduction_title: We support data collectives
-your_title: "**Your** project"
-your_channel: projects
-your_content: >-
-  **So? What about your idea?**
-
-  Do you believe that, in your field, data producers (you, me, them, everybody) should be able to decide which of their data are used and for what purpose?
-your_button: Submit a project
-running_projects_title: 1 Running project
-running_projects_button: Website
-running_projects:
-  - dating privacy
-launchpad_projects_title: 4 projects on the launchpad
-launchpad_projects_button: Join the project
-launchpad_projects:
-  - uber-drivers
-  - mobility
-  - disinformation
-  - data-literacy
 introduction: >-
   ## What is a data collective?
 
@@ -76,4 +59,22 @@ introduction: >-
 
 
   The projects backed by HestiaLabs bring people together to build and learn things by pooling their data. We help you share the results with journalists, researchers and civil society so that these innovations and knowledge benefit society as a whole.
+your_title: "**Your** project"
+your_content: >-
+  **So? What about your idea?**
+
+  Do you believe that, in your field, data producers (you, me, them, everybody) should be able to decide which of their data are used and for what purpose?
+your_button: Submit a project
+your_channel: projects
+running_projects_title: 1 Running project
+running_projects_button: Website
+running_projects:
+  - dating privacy
+  - disinformation
+launchpad_projects_title: 4 projects on the launchpad
+launchpad_projects_button: Join the project
+launchpad_projects:
+  - uber-drivers
+  - mobility
+  - data-literacy
 ---

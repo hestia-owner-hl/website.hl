@@ -1,6 +1,14 @@
 ---
 title: The Eyeballs, le collectif qui vous révéle la face cachée du web
 date: 2021-08-17T08:31:52.261Z
+lead: "HestiaLabs took advantage of this summer to join a second project: The
+  Eyeballs. A new collective to explore the means used by platforms to get our
+  attention and engagement. And influence us."
+post_categories:
+  - news
+  - data-collectives
+post_authors:
+  - cfd
 show_social_sharing: true
 ---
 Un nouveau projet rejoint le giron HestiaLabs ! Après [Dating Privacy](https://dating-privacy.hestialabs.org/) qui offre aux utilisateurs d’applications de rencontre les outils pour comprendre comment leurs données sont utilisées, [The Eyeballs](https://eyeballs.hestialabs.org/) vous fait découvrir la face cachée du numérique : ces traqueurs invisibles qui observent, enregistrent et analysent tout ce que vous faites en ligne.

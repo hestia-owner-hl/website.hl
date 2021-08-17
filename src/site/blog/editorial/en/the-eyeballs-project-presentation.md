@@ -2,6 +2,7 @@
 id: the eyeballs project presentation
 title: The Eyeballs, the collective that reveals the hidden side of the web
 date: 2021-08-17T08:31:52.124Z
+image: /assets/media/twitte_-banner_the_eyeballs.jpg
 lead: "HestiaLabs took advantage of this summer to join a second project: The
   Eyeballs. A new collective to explore the means used by platforms to get our
   attention and engagement. And influence us."

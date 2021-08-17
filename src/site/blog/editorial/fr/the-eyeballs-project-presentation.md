@@ -1,6 +1,7 @@
 ---
 title: The Eyeballs, le collectif qui vous révéle la face cachée du web
 date: 2021-08-17T08:31:52.261Z
+image: ""
 lead: "HestiaLabs took advantage of this summer to join a second project: The
   Eyeballs. A new collective to explore the means used by platforms to get our
   attention and engagement. And influence us."

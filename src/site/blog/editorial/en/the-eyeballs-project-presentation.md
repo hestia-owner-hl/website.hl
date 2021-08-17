@@ -30,4 +30,4 @@ And then there's me. My job is to watch them do it (with glowing eyes) and tell 
 
 To discover our first adventures, it's here :
 
-> [I am a woman, I speak German and I like milk, so says Twitter](<> https://eyeballs.hestialabs.org/fr/blog/editorial/the-twitter-experience-first-episode/>)
+> [I am a woman, I speak German and I like milk, so says Twitter]( https://eyeballs.hestialabs.org/fr/blog/editorial/the-twitter-experience-first-episode/)

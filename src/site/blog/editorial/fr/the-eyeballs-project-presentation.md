@@ -24,4 +24,6 @@ Et puis il y a moi. Mon job c’est de les regarder faire (avec les yeux qui bri
 
 Pour découvrir nos premières péripéties, c’est ici :
 
-> [Je suis une femme, je parle allemand et j’aime le lait m’apprend Twitter](<> https://eyeballs.hestialabs.org/fr/blog/editorial/the-twitter-experience-first-episode/>)
+> [Je suis une femme, je parle allemand et j’aime le lait m’apprend Twitter](https://eyeballs.hestialabs.org/fr/blog/editorial/the-twitter-experience-first-episode/)
+
+*Charles Foucault-Dumas*

@@ -1,25 +1,25 @@
 ---
 title: Media
 lead: |-
-  They talk about our\
-  **virtuous uses of data**
+  Ils parlent de nos\
+  **utilisations vertueuses des données**
 lead_image: /assets/media/hl_media_hero-c-laura-lee-moreau-zpe2gobovro-unsplash-c.jpeg
 lead_image_caption: Photo de [Laura Lee Moreau](https://unsplash.com/@laura_lee)
   sur [Unsplash](https://unsplash.com/photos/ZpE2gobovro)
-articles_title: Last articles
-read_button: Read
+articles_title: Derniers articles
+read_button: Lire
 contact_title: Contact
-contact_description: Our contact form
+contact_description: Nous contacter
 contact_channel: media
-media_kit_title: Find here all the material you need about HestiaLabs (fact
-  sheet, press images, logos, testimonials)
+media_kit_title: Retrouvez ici tout le matériel dont vous avez besoin concernant
+  HestiaLabs (fiche d'information, photos, logos, témoignages).
 media_kit_file: /en/contact/media/
 download_title: Media kit
-download_button: Coming soon
-press_releases_title: Press releases
+download_button: Bientôt disponible
+press_releases_title: Communiqués de presse
 press_releases:
   - date: 2021-04-20T12:59:14.786Z
-    title: Coming soon
+    title: Bientôt disponible
     url: /en/contact/media/
 layout: media
 permalink: /fr/media/index.html

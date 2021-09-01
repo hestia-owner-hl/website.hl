@@ -1,6 +1,4 @@
 ---
-layout: media
-permalink: /fr/media/index.html
 title: Media
 lead: |-
   They talk about our\
@@ -13,6 +11,9 @@ read_button: Read
 contact_title: Contact
 contact_description: Our contact form
 contact_channel: media
+media_kit_title: Find here all the material you need about HestiaLabs (fact
+  sheet, press images, logos, testimonials)
+media_kit_file: /en/contact/media/
 download_title: Media kit
 download_button: Coming soon
 press_releases_title: Press releases
@@ -20,11 +21,18 @@ press_releases:
   - date: 2021-04-20T12:59:14.786Z
     title: Coming soon
     url: /en/contact/media/
-media_kit: Media kit
-media_kit_title: Find here all the material you need about HestiaLabs (fact
-  sheet, press images, logos, testimonials)
-media_kit_file: /en/contact/media/
+layout: media
+permalink: /fr/media/index.html
 media_articles:
+  - date: 2021-09-27T08:30:46.174Z
+    title: Comment Facebook pourrait encore étendre sa domination
+    publication: Heidi.news
+    lead: Le fondateur d'HestiaLabs, Paul-Olivier Dehaye est cité dans cet article
+      (réservé aux abonnés) consacré au "chiffrement homomorphe", technologie
+      qui permet d'exploiter des données sans les déchiffrer... et ainsi de
+      contourner les régulations en vigueur sur la protection de la vie privée.
+    url: https://www.heidi.news/innovation-solutions/comment-facebook-pourrait-encore-etendre-sa-domination
+    image: /assets/media/hl_media_heidi_news.png
   - date: 2021-05-23T13:31:59.910Z
     title: "Vie privée: Comment savoir ce que les géants des données personnelles
       savent de vous"
@@ -63,4 +71,5 @@ media_articles:
       business très lucratif.
     url: https://www.rts.ch/play/tv/redirect/detail/12087030
     image: /assets/media/media-tinder-ttc-c-rts-c.jpg
+media_kit: Media kit
 ---

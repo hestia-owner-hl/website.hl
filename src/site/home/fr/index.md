@@ -1,32 +1,21 @@
 ---
-title: HestiaLabs
-lead: |-
-  Face à la collecte de données,\
-  Nous créons les **collectifs de données**\
-  Vous venez?
-lead_image: /assets/media/hl_home_hero-c-rodion-kutsaev-unsplash-c.jpeg
-lead_image_caption: Photo de [Rodion Kutsaev](https://unsplash.com/@frostroomhead)
-paragraphs_title: Ne subissez plus, choisissez
 path: home
-layout: home
-
 paragraphs:
   - title: Le problème
     description: >-
       L'intelligence artificielle change le monde. Tout le monde doit pouvoir en
-      profiter. Pas seulement une poignée de géants. Pour cela, chacun doit pouvoir
-      comprendre les algorithmes qui s'appuient sur nos données pour nous offrir des
-      services numériques. Puis choisir : continuer de donner ses données, ou
-      trouver une alternative.
+      profiter. Pas seulement une poignée de géants. Pour cela, chacun doit
+      pouvoir comprendre les algorithmes qui s'appuient sur nos données pour
+      nous offrir des services numériques. Puis choisir : continuer de donner
+      ses données, ou trouver une alternative.
 
 
-      Pour (r)établir la confiance entre les utilisateurs et utilisatrices et ceux qui développent les services numériques, nous créons les "[collectifs de données](/fr/projects/)": mains dans la main, utilisateurs et entrepreneurs y décident quelles données sont utilisées, comment elles sont utilisées, et dans quels buts.
-
+      Pour (r)établir la confiance entre les utilisateurs et utilisatrices et ceux qui développent les services numériques, nous créons les "[collectifs de données](/fr/projects/)": main dans la main, utilisateurs et entrepreneurs y décident quelles données sont utilisées, comment elles sont utilisées, et dans quels buts.
   - title: Notre stratégie
     description: >-
-      Nous soutenons des **projets de collectivisation des données personnelles**.
-      Nous mettons nos **compétences** techniques et juridiques et nos **réseaux** à
-      leur disposition. Gratuitement.
+      Nous soutenons des **projets de collectivisation des données
+      personnelles**. Nous mettons nos **compétences** techniques et juridiques
+      et nos **réseaux** à leur disposition. Gratuitement.
 
 
       Les premiers projets serviront de modèles aux suivants, etc. Et peu à peu, grâce à ces exemples très concrets, tout le monde comprendra **la valeur des données que nous générons.**
@@ -41,15 +30,21 @@ paragraphs:
     url: contact/projects
     primary_button: true
   - title: Des partenaires de confiance
-    description: Nous sommes très reconnaissants envers ceux qui croient en
-      nous depuis le début, notamment le [Fonds pionnier
+    description: Nous sommes très reconnaissants envers ceux qui croient en nous
+      depuis le début, notamment le [Fonds pionnier
       Migros](https://www.migros-pionierfonds.ch/fr/kuhne-vorhaben-fr). Ils nous
-      permettent de mener à bien notre **mission d'intérêt public** avec la rigueur
-      (et le temps !) nécessaire à son accomplissement diligent.
-
+      permettent de mener à bien notre **mission d'intérêt public** avec la
+      rigueur (et le temps !) nécessaire à son accomplissement diligent.
     link_text: En savoir plus
     url: partners
-
+layout: home
+title: HestiaLabs
+lead: |-
+  Face à la **collecte de données**,\
+  Jouons collectif\
+  Vous venez?
+lead_image: /assets/media/hl_home_hero-c-rodion-kutsaev-unsplash-c.jpeg
+lead_image_caption: Photo de [Rodion Kutsaev](https://unsplash.com/@frostroomhead)
 projects_title: Projets en cours
 featured_projects:
   - dating privacy
@@ -57,8 +52,8 @@ featured_projects:
   - disinformation
   - mobility
   - data-literacy
-
 permalink: /fr/index.html
+paragraphs_title: Ne subissez plus, choisissez
 news_title: Actus et événements
 news:
   - type: editorial

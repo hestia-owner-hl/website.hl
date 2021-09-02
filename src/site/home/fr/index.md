@@ -41,7 +41,7 @@ layout: home
 title: HestiaLabs
 lead: |-
   Face à la **collecte de données**,\
-  Jouons collectif\
+  jouons collectif!\
   Vous venez?
 lead_image: /assets/media/hl_home_hero-c-rodion-kutsaev-unsplash-c.jpeg
 lead_image_caption: Photo de [Rodion Kutsaev](https://unsplash.com/@frostroomhead)

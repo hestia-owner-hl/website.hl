@@ -42,11 +42,11 @@
 
 # automatic language switching to fr/en,
 # only enable this if we don't have a redirection en->fr is
-[[redirects]]
- from = "/"
- to = "/fr/"
- status = 302
- conditions = {Language = ["fr"]}
+# [[redirects]]
+# from = "/"
+# to = "/fr/"
+# status = 302
+# conditions = {Language = ["fr"]}
 
 [[redirects]]
   from = "/"

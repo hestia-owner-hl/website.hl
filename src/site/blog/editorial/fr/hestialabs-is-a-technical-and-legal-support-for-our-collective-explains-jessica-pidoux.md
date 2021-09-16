@@ -29,4 +29,4 @@ show_social_sharing: true
 
 With its expertise in privacy and its technical skills, HestiaLabs is a support structure for [Dating Privacy](https://dating-privacy.hestialabs.org/en). HestiaLabs has already developed subject access request (SAR) generators. These tools simplify and automate the process of data reappropriation by users, giving them the means to defend their interests. The aim of this collaboration is also that HestiaLabs can reuse the developments and knowledge created by Dating Privacy to help other data collectives. HestiaLabs also has an international network of experts from different backgrounds that help us answer legal and engineering questions.
 
-[Read the full interview](https://dating-privacy.hestialabs.org/en/blog/interview/jessica-pidoux-%E2%80%9Cdating-apps-are-not-magic-just-maths-code-and-data%E2%80%9D/)
+[Read the full interview](https://dating-privacy.hestialabs.org/en/blog/interview/jessica-pidoux-dating-apps-are-not-magic-just-maths-code-and-data/)

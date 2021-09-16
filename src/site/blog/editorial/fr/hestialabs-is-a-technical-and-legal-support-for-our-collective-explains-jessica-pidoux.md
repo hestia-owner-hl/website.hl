@@ -1,15 +1,16 @@
 ---
 id: hestialabs-is-a-technical-and-legal-support-for-our-collective-explains-jessica-pidoux
-title: “HestiaLabs is a technical and legal support for our collective”,
-  explains Jessica Pidoux
+title: '"HestiaLabs est un soutien technique et juridique pour notre collectif",
+  explique Jessica Pidoux.'
 date: 2021-06-02T08:41:08.415Z
 image: /assets/media/dp_blog_jessica_pidoux-cropped.jpg
 image_caption: "Jessica Pidoux/Photo: Le Temps"
-lead: Researcher Jessica Pidoux created the Dating Privacy data collective to
-  understand and improve the management of users' personal data by dating
-  applications. In a long interview published on the project's blog, she details
-  the project's objectives and explains why HestiaLabs is the right partner to
-  achieve them. Excerpt.
+lead: La chercheuse Jessica Pidoux a créé le collectif de données Dating Privacy
+  pour comprendre et améliorer la gestion des données personnelles des
+  utilisateurs par les applications de rencontre. Dans une longue interview
+  publiée sur le blog du projet, elle détaille les objectifs du projet et
+  explique pourquoi HestiaLabs est le bon partenaire pour les atteindre.
+  Extrait.
 post_categories:
   - Data collectives
 post_authors:
@@ -25,8 +26,8 @@ show_social_sharing: true
 ---
 (...)
 
-**What is the role of HestiaLabs in your collective?**
+**Quel est le rôle d'HestiaLabs dans votre collectif?**
 
-With its expertise in privacy and its technical skills, HestiaLabs is a support structure for [Dating Privacy](https://dating-privacy.hestialabs.org/en). HestiaLabs has already developed subject access request (SAR) generators. These tools simplify and automate the process of data reappropriation by users, giving them the means to defend their interests. The aim of this collaboration is also that HestiaLabs can reuse the developments and knowledge created by Dating Privacy to help other data collectives. HestiaLabs also has an international network of experts from different backgrounds that help us answer legal and engineering questions.
+Par son expertise en matière de vie privée et ses compétences techniques, HestiaLabs est une structure de soutien pour [Dating Privacy] (https://dating-privacy.hestialabs.org/fr/). HestiaLabs a déjà développé des générateurs de demandes d'accès (SAR). Ces outils simplifient et automatisent le processus de réappropriation des données par les utilisateurs, leur donnant ainsi les moyens de défendre leurs intérêts. L'objectif de cette collaboration est également qu'HestiaLabs puisse réutiliser les développements et les connaissances créés par Dating Privacy pour aider d'autres collectifs de données. HestiaLabs dispose également d'un réseau international d'experts de différents horizons qui nous aident à répondre aux questions juridiques et techniques que nous rencontrons.
 
-[Read the full interview](https://dating-privacy.hestialabs.org/en/blog/interview/jessica-pidoux-dating-apps-are-not-magic-just-maths-code-and-data/)
+[Lire l'interview complète](https://dating-privacy.hestialabs.org/fr/blog/interview/jessica-pidoux-dating-apps-are-not-magic-just-maths-code-and-data/)

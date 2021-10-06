@@ -11,16 +11,16 @@ read_button: Read
 contact_title: Contact
 contact_description: Our contact form
 contact_channel: media
-media_kit_title: Find here all the material you need about HestiaLabs (fact
-  sheet, press images, logos, testimonials)
-media_kit_file: /en/contact/media/
+media_kit_title: Find here all the material you need about HestiaLabs (press
+  conference and workshop pictures, logos, presentations, information)
+media_kit_file: https://drive.infomaniak.com/app/share/193995/eadad47a-9d1a-43e8-8d8d-b3ca14e518be
 download_title: Media kit
-download_button: Coming soon
+download_button: Get there
 press_releases_title: Press releases
 press_releases:
-  - date: 2021-04-20T12:59:14.786Z
-    title: Coming soon
-    url: /en/contact/media/
+  - date: 2021-10-05T12:59:14.786Z
+    title: HestiaLabs - From data collection to data collectives
+    url: https://drive.infomaniak.com/app/share/193995/caa8bf41-722c-4ed6-8e59-cd228969ddc0
 layout: media
 permalink: /en/media/index.html
 media_articles:

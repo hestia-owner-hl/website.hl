@@ -1,5 +1,5 @@
 ---
-title: Media
+title: Média
 lead: |-
   Ils parlent de nos\
   **utilisations vertueuses des données**
@@ -11,16 +11,17 @@ read_button: Lire
 contact_title: Contact
 contact_description: Nous contacter
 contact_channel: media
-media_kit_title: Retrouvez ici tout le matériel dont vous avez besoin concernant
-  HestiaLabs (fiche d'information, photos, logos, témoignages).
-media_kit_file: /en/contact/media/
+media_kit_title: Retrouvez ici tout le matériel dont vous pourriez avoir besoin
+  au sujet d'HestiaLabs (photos de conférence de presse et des ateliers, logos,
+  présentations, informations).
+media_kit_file: https://drive.infomaniak.com/app/share/193995/3e9c8d5d-81f9-4a89-87e2-32a2678425b5
 download_title: Media kit
-download_button: Bientôt disponible
+download_button: Y accéder
 press_releases_title: Communiqués de presse
 press_releases:
-  - date: 2021-04-20T12:59:14.786Z
-    title: Bientôt disponible
-    url: /en/contact/media/
+  - date: 2021-10-05T09:47:15.182Z
+    url: https://drive.infomaniak.com/app/share/193995/f117ca49-b2f3-400f-8510-f79790e9813b
+    title: HestiaLabs - De la collecte de données aux collectifs de données
 layout: media
 permalink: /fr/media/index.html
 media_articles:

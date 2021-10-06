@@ -25,6 +25,13 @@ press_releases:
 layout: media
 permalink: /fr/media/index.html
 media_articles:
+  - date: 2021-10-05T14:32:04.923Z
+    title: Avec HestiaLabs, l'expert Paul-Olivier Dehaye veut assainir le web
+    publication: Le Temps
+    lead: "Le Temps revient sur le lancement officiel d'HestiaLabs: \"une nouvelle
+      initiative suisse en faveur d’un écosystème numérique sain.\""
+    url: https://www.letemps.ch/economie/hestialabs-lexpert-paulolivier-dehaye-veut-assainir-web
+    image: /assets/media/le_temps_logo-700x158.png
   - date: 2021-09-27T08:30:46.174Z
     title: Comment Facebook pourrait encore étendre sa domination
     publication: Heidi.news

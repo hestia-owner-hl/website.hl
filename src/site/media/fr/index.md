@@ -43,6 +43,14 @@ media_articles:
       l’usage de données dans différents domaines.
     url: https://www.ictjournal.ch/news/2021-10-06/les-experts-dhestialabs-offrent-leurs-competences-contre-lexploitation-abusive-des
     image: /assets/media/hl_media_logo_ictjournal_cmyk-002-.webp
+  - date: 2021-10-05T09:59:48.398Z
+    title: Le mathématicien qui a fait plier Facebook poursuit sa croisade à Genève
+    lead: "Paul-Olivier Dehaye, l’homme aux sources de l’affaire Cambridge
+      Analytica, lance un nouveau centre. Sa mission: reprendre le contrôle des
+      données sur le Net."
+    publication: 24heures
+    url: https://www.24heures.ch/le-mathematicien-qui-a-fait-plier-facebook-poursuit-sa-croisade-a-geneve-954234255892
+    image: /assets/media/hl_media_logo_24heures.png
   - date: 2021-09-27T08:30:46.174Z
     title: Comment Facebook pourrait encore étendre sa domination
     publication: Heidi.news

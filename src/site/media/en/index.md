@@ -44,6 +44,15 @@ media_articles:
       fields.
     url: https://www.ictjournal.ch/news/2021-10-06/les-experts-dhestialabs-offrent-leurs-competences-contre-lexploitation-abusive-des
     image: /assets/media/hl_media_logo_ictjournal_cmyk-002-.webp
+  - date: 2021-10-05T09:59:47.232Z
+    title: The mathematician who brought Facebook to heel is pursuing his crusade in
+      Geneva
+    lead: "Paul-Olivier Dehaye, the man behind the Cambridge Analytica affair, is
+      launching a new center. His mission: to regain control of data on the
+      Net."
+    publication: 24heures
+    url: https://www.24heures.ch/le-mathematicien-qui-a-fait-plier-facebook-poursuit-sa-croisade-a-geneve-954234255892
+    image: /assets/media/hl_media_logo_24heures.png
   - date: 2021-10-05T14:28:13.579Z
     url: https://www.letemps.ch/economie/hestialabs-lexpert-paulolivier-dehaye-veut-assainir-web
     publication: Le Temps

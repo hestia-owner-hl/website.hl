@@ -34,6 +34,16 @@ media_articles:
     url: https://www.bfmtv.com/economie/replay-emissions/tech-and-co/paul-olivier-dehaye-hestia-labs-hestia-labs-milite-pour-un-ecosysteme-numerique-sain-14-10_VN-202110140543.html
     image: /assets/media/211014_hl_po_dehaye_bfmbusiness.png
     image_caption: Image BFM Business
+  - date: 2021-10-06T09:42:14.375Z
+    title: HestiaLabs experts offer their expertise against data abuse
+    publication: ICTjournal
+    lead: Paul-Olivier Dehaye, expert in Big Data and data protection, has launched
+      HestiaLabs. Bringing together developers, data scientists and AI experts
+      based in Switzerland, this structure works to create collectives that
+      mainly aim to fight against the abuse of data collection in various
+      fields.
+    url: https://www.ictjournal.ch/news/2021-10-06/les-experts-dhestialabs-offrent-leurs-competences-contre-lexploitation-abusive-des
+    image: /assets/media/hl_media_logo_ictjournal_cmyk-002-.webp
   - date: 2021-10-05T14:28:13.579Z
     url: https://www.letemps.ch/economie/hestialabs-lexpert-paulolivier-dehaye-veut-assainir-web
     publication: Le Temps

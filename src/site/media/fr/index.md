@@ -32,6 +32,17 @@ media_articles:
       initiative suisse en faveur d’un écosystème numérique sain.\""
     url: https://www.letemps.ch/economie/hestialabs-lexpert-paulolivier-dehaye-veut-assainir-web
     image: /assets/media/le_temps_logo-700x158.png
+  - date: 2021-10-06T09:42:19.776Z
+    title: Les experts d’HestiaLabs offrent leurs compétences contre l’exploitation
+      abusive des data
+    publication: ICTjournal
+    lead: Paul-Olivier Dehaye, expert en Big Data et en protection des données, a
+      lancé HestiaLabs. Réunissant des développeurs, data scientists et experts
+      en IA basés en Suisse, cette structure s’applique à créer des collectifs
+      qui visent principalement à lutter contre les abus de la collecte et de
+      l’usage de données dans différents domaines.
+    url: https://www.ictjournal.ch/news/2021-10-06/les-experts-dhestialabs-offrent-leurs-competences-contre-lexploitation-abusive-des
+    image: /assets/media/hl_media_logo_ictjournal_cmyk-002-.webp
   - date: 2021-09-27T08:30:46.174Z
     title: Comment Facebook pourrait encore étendre sa domination
     publication: Heidi.news

@@ -43,6 +43,15 @@ media_articles:
       l’usage de données dans différents domaines.
     url: https://www.ictjournal.ch/news/2021-10-06/les-experts-dhestialabs-offrent-leurs-competences-contre-lexploitation-abusive-des
     image: /assets/media/hl_media_logo_ictjournal_cmyk-002-.webp
+  - date: 2021-10-06T10:24:42.032Z
+    title: "\"Dénoncer l'exploitation numérique\""
+    publication: RSI
+    lead: >
+      Selon le mathématicien Paul Olivier Dehaye : "Les problèmes de Facebook
+      sont là pour tous : son infrastructure est brisée, l'innovation n'est plus
+      là-bas"
+    url: https://www.rsi.ch/news/mondo/Denunciare-lo-sfruttamento-digitale-14775588.html
+    image: /assets/media/hl_media_logo_rsi.svg
   - date: 2021-10-05T10:10:20.235Z
     title: HestiaLabs veut faire des données personnelles un bien collectif
     publication: Heidi.news

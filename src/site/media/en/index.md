@@ -44,6 +44,14 @@ media_articles:
       fields.
     url: https://www.ictjournal.ch/news/2021-10-06/les-experts-dhestialabs-offrent-leurs-competences-contre-lexploitation-abusive-des
     image: /assets/media/hl_media_logo_ictjournal_cmyk-002-.webp
+  - date: 2021-10-06T10:24:45.060Z
+    title: '"Denouncing digital exploitation"'
+    publication: RSI
+    lead: >
+      Mathematician Paul Olivier Dehaye says: "Facebook's problems are there for
+      all to see: its infrastructure is broken, innovation is no longer there."
+    url: https://www.rsi.ch/news/mondo/Denunciare-lo-sfruttamento-digitale-14775588.html
+    image: /assets/media/hl_media_logo_rsi.svg
   - date: 2021-10-05T10:10:19.313Z
     lead: Personal data is at the center of the business model of technology giants.
       From Google to Amazon, through Facebook and Microsoft, more and more means

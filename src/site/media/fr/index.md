@@ -32,6 +32,36 @@ media_articles:
       initiative suisse en faveur d’un écosystème numérique sain.\""
     url: https://www.letemps.ch/economie/hestialabs-lexpert-paulolivier-dehaye-veut-assainir-web
     image: /assets/media/le_temps_logo-700x158.png
+  - date: 2021-10-06T09:42:19.776Z
+    title: Les experts d’HestiaLabs offrent leurs compétences contre l’exploitation
+      abusive des data
+    publication: ICTjournal
+    lead: Paul-Olivier Dehaye, expert en Big Data et en protection des données, a
+      lancé HestiaLabs. Réunissant des développeurs, data scientists et experts
+      en IA basés en Suisse, cette structure s’applique à créer des collectifs
+      qui visent principalement à lutter contre les abus de la collecte et de
+      l’usage de données dans différents domaines.
+    url: https://www.ictjournal.ch/news/2021-10-06/les-experts-dhestialabs-offrent-leurs-competences-contre-lexploitation-abusive-des
+    image: /assets/media/hl_media_logo_ictjournal_cmyk-002-.webp
+  - date: 2021-10-05T10:10:20.235Z
+    title: HestiaLabs veut faire des données personnelles un bien collectif
+    publication: Heidi.news
+    lead: Les données personnelles sont au centre du business model des géants de la
+      technologie. De Google à Amazon, en passant par Facebook et Microsoft, de
+      plus en plus de moyens sont mis en œuvre pour élargir les voies
+      d’approvisionnement en données. Face à cela, HestiaLabs soutient des
+      projets visant à créer des «collectifs de données» pour redonner le
+      pouvoir aux individus sur les données qui les concernent.
+    url: https://www.heidi.news/innovation-solutions/hestialabs-veut-rendre-aux-individus-le-pouvoir-sur-leurs-donnees
+    image: /assets/media/hl_media_heidi_news.png
+  - date: 2021-10-05T09:59:48.398Z
+    title: Le mathématicien qui a fait plier Facebook poursuit sa croisade à Genève
+    lead: "Paul-Olivier Dehaye, l’homme aux sources de l’affaire Cambridge
+      Analytica, lance un nouveau centre. Sa mission: reprendre le contrôle des
+      données sur le Net."
+    publication: 24heures
+    url: https://www.24heures.ch/le-mathematicien-qui-a-fait-plier-facebook-poursuit-sa-croisade-a-geneve-954234255892
+    image: /assets/media/hl_media_logo_24heures.png
   - date: 2021-09-27T08:30:46.174Z
     title: Comment Facebook pourrait encore étendre sa domination
     publication: Heidi.news
@@ -72,12 +102,15 @@ media_articles:
     publication: RTS - Forum
     image: /assets/media/media-reseaux-sociaux-mobile-apps.png
     image_caption: Image RTS
-  - date: 2021-03-30T10:21:28.350Z
-    title: Tinder, un business très lucratif
-    publication: RTS - TTC
-    lead: Aujourd'hui Tinder est l'application la plus téléchargée dans le monde, un
-      business très lucratif.
-    url: https://www.rts.ch/play/tv/redirect/detail/12087030
-    image: /assets/media/media-tinder-ttc-c-rts-c.jpg
+  - date: 2021-10-14T09:16:47.107Z
+    title: HestiaLabs milite pour un écosystème numérique sain
+    lead: En direct dans l’émission Tech & Co de la chaine française BFM Business,
+      le fondateur d’HestiaLabs explique comment la construction de modèles
+      d’affaires durables autour de la réappropriation des données peut nous
+      faire sortir de l’impasse numérique dans laquelle nous sommes.
+    publication: BFM Business
+    url: https://www.bfmtv.com/economie/replay-emissions/tech-and-co/paul-olivier-dehaye-hestia-labs-hestia-labs-milite-pour-un-ecosysteme-numerique-sain-14-10_VN-202110140543.html
+    image: /assets/media/211014_hl_po_dehaye_bfmbusiness.png
+    image_caption: Image BFM Business
 media_kit: Media kit
 ---

@@ -44,6 +44,16 @@ media_articles:
       fields.
     url: https://www.ictjournal.ch/news/2021-10-06/les-experts-dhestialabs-offrent-leurs-competences-contre-lexploitation-abusive-des
     image: /assets/media/hl_media_logo_ictjournal_cmyk-002-.webp
+  - date: 2021-10-05T10:10:19.313Z
+    lead: Personal data is at the center of the business model of technology giants.
+      From Google to Amazon, through Facebook and Microsoft, more and more means
+      are implemented to widen the data supply channels. Faced with this,
+      HestiaLabs supports projects aiming at creating "data collectives" to give
+      back the power to individuals over the data that concerns them.
+    title: HestiaLabs wants to make personal data a public good
+    publication: Hesidi.news
+    url: https://www.heidi.news/innovation-solutions/hestialabs-veut-rendre-aux-individus-le-pouvoir-sur-leurs-donnees
+    image: /assets/media/hl_media_heidi_news.png
   - date: 2021-10-05T09:59:47.232Z
     title: The mathematician who brought Facebook to heel is pursuing his crusade in
       Geneva

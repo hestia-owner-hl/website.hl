@@ -43,6 +43,17 @@ media_articles:
       l’usage de données dans différents domaines.
     url: https://www.ictjournal.ch/news/2021-10-06/les-experts-dhestialabs-offrent-leurs-competences-contre-lexploitation-abusive-des
     image: /assets/media/hl_media_logo_ictjournal_cmyk-002-.webp
+  - date: 2021-10-05T10:10:20.235Z
+    title: HestiaLabs veut faire des données personnelles un bien collectif
+    publication: Heidi.news
+    lead: Les données personnelles sont au centre du business model des géants de la
+      technologie. De Google à Amazon, en passant par Facebook et Microsoft, de
+      plus en plus de moyens sont mis en œuvre pour élargir les voies
+      d’approvisionnement en données. Face à cela, HestiaLabs soutient des
+      projets visant à créer des «collectifs de données» pour redonner le
+      pouvoir aux individus sur les données qui les concernent.
+    url: https://www.heidi.news/innovation-solutions/hestialabs-veut-rendre-aux-individus-le-pouvoir-sur-leurs-donnees
+    image: /assets/media/hl_media_heidi_news.png
   - date: 2021-10-05T09:59:48.398Z
     title: Le mathématicien qui a fait plier Facebook poursuit sa croisade à Genève
     lead: "Paul-Olivier Dehaye, l’homme aux sources de l’affaire Cambridge

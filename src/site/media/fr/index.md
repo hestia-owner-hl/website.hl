@@ -25,13 +25,16 @@ press_releases:
 layout: media
 permalink: /fr/media/index.html
 media_articles:
-  - date: 2021-10-05T14:32:04.923Z
-    title: Avec HestiaLabs, l'expert Paul-Olivier Dehaye veut assainir le web
-    publication: Le Temps
-    lead: "Le Temps revient sur le lancement officiel d'HestiaLabs: \"une nouvelle
-      initiative suisse en faveur d’un écosystème numérique sain.\""
-    url: https://www.letemps.ch/economie/hestialabs-lexpert-paulolivier-dehaye-veut-assainir-web
-    image: /assets/media/le_temps_logo-700x158.png
+  - date: 2021-10-14T09:16:47.107Z
+    title: HestiaLabs milite pour un écosystème numérique sain
+    lead: En direct dans l’émission Tech & Co de la chaine française BFM Business,
+      le fondateur d’HestiaLabs explique comment la construction de modèles
+      d’affaires durables autour de la réappropriation des données peut nous
+      faire sortir de l’impasse numérique dans laquelle nous sommes.
+    publication: BFM Business
+    url: https://www.bfmtv.com/economie/replay-emissions/tech-and-co/paul-olivier-dehaye-hestia-labs-hestia-labs-milite-pour-un-ecosysteme-numerique-sain-14-10_VN-202110140543.html
+    image: /assets/media/211014_hl_po_dehaye_bfmbusiness.png
+    image_caption: Image BFM Business
   - date: 2021-10-06T09:42:19.776Z
     title: Les experts d’HestiaLabs offrent leurs compétences contre l’exploitation
       abusive des data
@@ -71,6 +74,13 @@ media_articles:
     publication: 24heures
     url: https://www.24heures.ch/le-mathematicien-qui-a-fait-plier-facebook-poursuit-sa-croisade-a-geneve-954234255892
     image: /assets/media/hl_media_logo_24heures.png
+  - date: 2021-10-05T14:32:04.923Z
+    title: Avec HestiaLabs, l'expert Paul-Olivier Dehaye veut assainir le web
+    publication: Le Temps
+    lead: "Le Temps revient sur le lancement officiel d'HestiaLabs: \"une nouvelle
+      initiative suisse en faveur d’un écosystème numérique sain.\""
+    url: https://www.letemps.ch/economie/hestialabs-lexpert-paulolivier-dehaye-veut-assainir-web
+    image: /assets/media/le_temps_logo-700x158.png
   - date: 2021-09-27T08:30:46.174Z
     title: Comment Facebook pourrait encore étendre sa domination
     publication: Heidi.news
@@ -111,15 +121,5 @@ media_articles:
     publication: RTS - Forum
     image: /assets/media/media-reseaux-sociaux-mobile-apps.png
     image_caption: Image RTS
-  - date: 2021-10-14T09:16:47.107Z
-    title: HestiaLabs milite pour un écosystème numérique sain
-    lead: En direct dans l’émission Tech & Co de la chaine française BFM Business,
-      le fondateur d’HestiaLabs explique comment la construction de modèles
-      d’affaires durables autour de la réappropriation des données peut nous
-      faire sortir de l’impasse numérique dans laquelle nous sommes.
-    publication: BFM Business
-    url: https://www.bfmtv.com/economie/replay-emissions/tech-and-co/paul-olivier-dehaye-hestia-labs-hestia-labs-milite-pour-un-ecosysteme-numerique-sain-14-10_VN-202110140543.html
-    image: /assets/media/211014_hl_po_dehaye_bfmbusiness.png
-    image_caption: Image BFM Business
 media_kit: Media kit
 ---

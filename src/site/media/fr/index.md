@@ -72,12 +72,15 @@ media_articles:
     publication: RTS - Forum
     image: /assets/media/media-reseaux-sociaux-mobile-apps.png
     image_caption: Image RTS
-  - date: 2021-03-30T10:21:28.350Z
-    title: Tinder, un business très lucratif
-    publication: RTS - TTC
-    lead: Aujourd'hui Tinder est l'application la plus téléchargée dans le monde, un
-      business très lucratif.
-    url: https://www.rts.ch/play/tv/redirect/detail/12087030
-    image: /assets/media/media-tinder-ttc-c-rts-c.jpg
+  - date: 2021-10-14T09:16:47.107Z
+    title: HestiaLabs milite pour un écosystème numérique sain
+    lead: En direct dans l’émission Tech & Co de la chaine française BFM Business,
+      le fondateur d’HestiaLabs explique comment la construction de modèles
+      d’affaires durables autour de la réappropriation des données peut nous
+      faire sortir de l’impasse numérique dans laquelle nous sommes.
+    publication: BFM Business
+    url: https://www.bfmtv.com/economie/replay-emissions/tech-and-co/paul-olivier-dehaye-hestia-labs-hestia-labs-milite-pour-un-ecosysteme-numerique-sain-14-10_VN-202110140543.html
+    image: /assets/media/211014_hl_po_dehaye_bfmbusiness.png
+    image_caption: Image BFM Business
 media_kit: Media kit
 ---

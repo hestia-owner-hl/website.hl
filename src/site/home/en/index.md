@@ -1,7 +1,7 @@
 ---
 path: home
 paragraphs:
-  - title: We power
+  - title: We power...
     description: >-
       We put together individuals with a common problem with the use of their
       data or with a common problem that can be solved with their data and
@@ -12,8 +12,8 @@ paragraphs:
 
 
       We help the collective [Dating Privacy❤️](https://dating-privacy.hestialabs.org)  redefine the balance between the interests of dating app users and the interests of the platforms by mapping and exposing the data they collect.
-  - title: data collectives
-    description: >-
+  - title: ...data collectives
+    description: >+
       We lead [participatory trainings](/en/projects#data-literacy) based on
       real life examples to answer this very important question: How is our data
       used?
@@ -23,6 +23,7 @@ paragraphs:
 
 
       This how HestiaLabs will deconstruct the idea that the current data valuation model is the norm and build a more ethical one.
+
     link_text: Learn more
     url: strategy
   - title: Join us

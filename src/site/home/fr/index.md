@@ -1,24 +1,29 @@
 ---
 path: home
 paragraphs:
-  - title: Le problème
+  - title: Nous propulsons des collectifs de données
     description: >-
-      L'intelligence artificielle change le monde. Tout le monde doit pouvoir en
-      profiter. Pas seulement une poignée de géants. Pour cela, chacun doit
-      pouvoir comprendre les algorithmes qui s'appuient sur nos données pour
-      nous offrir des services numériques. Puis choisir : continuer de donner
-      ses données, ou trouver une alternative.
+      Nous mettons en relation des individus ayant un problème commun avec
+      l'utilisation de leurs données ou un problème commun qui peut être résolu
+      avec leurs données. Nous leur offrons les technologies et le cadre éthique
+      dont ils ont besoin pour le résoudre.
 
 
-      Pour (r)établir la confiance entre les utilisateurs et utilisatrices et ceux qui développent les services numériques, nous créons les "[collectifs de données](/fr/projects/)": main dans la main, utilisateurs et entrepreneurs y décident quelles données sont utilisées, comment elles sont utilisées, et dans quels buts.
-  - title: Notre stratégie
+      Nous développons [des outils](https://experiences.hestialabs.org) pour [The Eyeballs 👀](https://eyeballs.hestialabs.org), un collectif qui révèle ce qui se passe derrière nos écrans lorsque nous lisons un article ou faisons défiler du contenu sur les médias sociaux : Pourquoi est-ce que je vois cette publicité ? Combien un annonceur paie-t-il pour me cibler ?
+
+
+      Nous aidons le collectif [Dating Privacy](https://dating-privacy.hestialabs.org)❤️  à redéfinir l'équilibre entre les intérêts des utilisateurs d'applis de rencontre et ceux des plateformes en cartographiant et en exposant les données qu'elles collectent.
+  - title: ""
     description: >-
-      Nous soutenons des **projets de collectivisation des données
-      personnelles**. Nous mettons nos **compétences** techniques et juridiques
-      et nos **réseaux** à leur disposition. Gratuitement.
+      Nous animons des [formations participatives](/fr/projects#data-literacy)
+      basées sur des exemples concrets pour répondre à cette question très
+      importante : Comment nos données sont-elles utilisées ?
 
 
-      Les premiers projets serviront de modèles aux suivants, etc. Et peu à peu, grâce à ces exemples très concrets, tout le monde comprendra **la valeur des données que nous générons.**
+      Un collectif de données autour de [la mobilité](/fr/projects#mobility) et un autre pour les [travailleurs des plateformes](/fr/projects#uber-drivers) sont en cours de construction. Beaucoup d'autres suivront.
+
+
+      C'est ainsi qu'HestiaLabs va déconstruire l'idée que le modèle actuel de valorisation des données est la norme et en construire un plus éthique.
     link_text: En savoir plus
     url: strategy
   - title: Rejoignez-nous
@@ -53,7 +58,7 @@ featured_projects:
   - mobility
   - data-literacy
 permalink: /fr/index.html
-paragraphs_title: Ne subissez plus, choisissez
+paragraphs_title: ""
 news_title: Actus et événements
 news:
   - type: editorial

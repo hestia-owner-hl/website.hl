@@ -1,24 +1,28 @@
 ---
 path: home
 paragraphs:
-  - title: The problem we solve
+  - title: We power data collectives
     description: >-
-      Artificial intelligence is changing the world. This revolution must
-      benefit the many and not the few. For this to happen, individuals and
-      organisations must be able to understand the algorithms behind the digital
-      services they provide data to and what they get in return.
+      We put together individuals with a common problem with the use of their
+      data or with a common problem that can be solved with their data and
+      empower them with the technologies and ethical framework to solve it.
 
 
-      This paradigm shift will only be possible by building sustainable and trusted bridges between the people willing to share their data for a specific purpose and those with the know-how to achieve these goals. This led us to the creation of what we call “[data collectives](/en/projects/)”.
-  - title: Our strategy
+      We develop [tools](https://experiences.hestialabs.org) for [The Eyeballs 👀](https://eyeballs.hestialabs.org), a collective that reveal what is going on behind our screens when we read an article or scroll through content on social media: Why am I seeing this ad? How much is an advertiser paying to target me?
+
+
+      We help the collective [Dating Privacy❤️](https://dating-privacy.hestialabs.org)  redefine the balance between the interests of dating app users and the interests of the platforms by mapping and exposing the data they collect.
+  - title: ""
     description: >-
-      **Small shifts in personal habits lead to major societal changes**. People
-      need concrete examples to understand the power of the data they generate.
-      To prime the pump, HestiaLabs helps those who are already ready to
-      reinvent our data future. For free.
+      We lead [participatory trainings](/en/projects#data-literacy) based on
+      real life examples to answer this very important question: How is our data
+      used?
 
 
-      We support **community projects around personal data collectives**. We put our **skills** (technical, legal, advocacy) and **networks** at their disposal.
+      A data collective around [mobility](/en/projects#mobility) and one for [platform workers](/en/projects#uber-drivers) are under construction. Many others will follow.
+
+
+      This how HestiaLabs will deconstruct the idea that the current data valuation model is the norm and build a more ethical one.
     link_text: Learn more
     url: strategy
   - title: Join us
@@ -53,7 +57,7 @@ featured_projects:
   - mobility
   - data-literacy
 permalink: /en/index.html
-paragraphs_title: We create a new relationship to personal data
+paragraphs_title: ""
 news_title: News and events
 news:
   - type: interview

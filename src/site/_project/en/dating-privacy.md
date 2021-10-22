@@ -10,10 +10,9 @@ description: >-
   The project also provides dating apps users with a tool to visualize and understand the dating apps data ecosystem and its exploitation.
 
 
-  In a first phase, this project will focus on the relevance of geolocation data. 
-image: /assets/media/project-dating-privacy-c-alexander-sinn-unsplash-c.jpeg
-image_caption: Photo by [Alexander Sinn](https://unsplash.com/@swimstaralex)
-  on [Unsplash](https://unsplash.com/@swimstaralex)
+  In a first phase, this project will focus on the relevance of geolocation data.
+image: /assets/media/dating-privacy-.jpg
+image_caption: Illustration by [Clara Janossy](https://clarajanossy.com)
 contact:
   - type: link
     url: https://dating-privacy.hestialabs.org/en/

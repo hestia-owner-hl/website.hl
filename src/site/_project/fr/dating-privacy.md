@@ -8,9 +8,8 @@ description: >-
 
 
   Ce projet aide aussi les utilisateurs d'applications à visualiser et comprendre l'écosystème des données d'app et leur exploitation.
-image: /assets/media/project-dating-privacy-c-alexander-sinn-unsplash-c.jpeg
-image_caption: Photo de [Alexander Sinn](https://unsplash.com/@swimstaralex)
-  sur [Unsplash](https://unsplash.com/@swimstaralex)
+image: /assets/media/dating-privacy-.jpg
+image_caption: Illustration de [Clara Janossy](https://clarajanossy.com)
 contact:
   - type: link
     url: https://dating-privacy.hestialabs.org/fr/

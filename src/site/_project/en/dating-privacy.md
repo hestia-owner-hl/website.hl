@@ -11,9 +11,9 @@ description: >-
 
 
   In a first phase, this project will focus on the relevance of geolocation data. 
-image: /assets/media/project-dating-privacy-c-alexander-sinn-unsplash-c.jpeg
-image_caption: Photo by [Alexander Sinn](https://unsplash.com/@swimstaralex)
-  on [Unsplash](https://unsplash.com/@swimstaralex)
+image: /assets/media/dating-privacy-.jpg
+image_caption: Photo by [Alexander Sinn](https://unsplash.com/@swimstaralex) on
+  [Unsplash](https://unsplash.com/@swimstaralex)
 contact:
   - type: link
     url: https://dating-privacy.hestialabs.org/en/

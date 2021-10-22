@@ -1,7 +1,7 @@
 ---
 path: home
 paragraphs:
-  - title: Nous propulsons des collectifs de données
+  - title: Nous propulsons
     description: >-
       Nous mettons en relation des individus ayant un problème commun avec
       l'utilisation de leurs données ou un problème commun qui peut être résolu
@@ -13,7 +13,7 @@ paragraphs:
 
 
       Nous aidons le collectif [Dating Privacy](https://dating-privacy.hestialabs.org)❤️  à redéfinir l'équilibre entre les intérêts des utilisateurs d'applis de rencontre et ceux des plateformes en cartographiant et en exposant les données qu'elles collectent.
-  - title: ""
+  - title: des collectifs de données
     description: >-
       Nous animons des [formations participatives](/fr/projects#data-literacy)
       basées sur des exemples concrets pour répondre à cette question très

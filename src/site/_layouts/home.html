@@ -24,29 +24,11 @@ inverse: true
     {% endfor %}
 </section>
 
-<section id="projects">
-  <h1>{% inlineMarkdown projects_title %}</h1>
-  <div class="stack-layout with-gutters">
-    {% set projects_to_display = defaultTranslation.page.data.featured_projects %}
-    {% set articleLayout = cycler("card", "card-alt") %}
-    {% for project_to_display in projects_to_display %}
-      {% for project in collections.project %}
-        {% if project.data.locale == locale
-          and project.data.id == project_to_display%}
-          {% set project_url = "/" + locale + "/projects#" + project.data.page.fileSlug %}
-          <article-breakout
-              class="stack-cell" layout="{{articleLayout.next()}}"
-              href="{{project_url | url}}" img-src="{{project.data.image | url}}">
-            <span slot="caption">{% inlineMarkdown project.data.image_caption %}</span>
-            <h2>{{project.data.name}}</h2>
-            {% markdown project.data.description %}
-            <button>{{i18n.globals[locale].read_more}}</button>
-          </article-breakout>
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-  </div>
+<section id="newsletter" class="newsletter">
+  <newsletter-signup lang="{{locale}}" form-name="newsletter-hl-signup">
+  </newsletter-signup>
 </section>
+
 {% set latest_news = collections.blogPosts[locale].latest %}
 {% if news|length or latest_news|length %}
   <section id="news">
@@ -94,13 +76,6 @@ inverse: true
     </div>
   </section>
 {% endif %}
-
-<section id="newsletter" class="newsletter">
-  <newsletter-signup
-    lang="{{locale}}"
-    form-name="newsletter-hl-signup">
-  </newsletter-signup>
-</section>
 
 <script type="module">
   import '/components/article-breakout.js';

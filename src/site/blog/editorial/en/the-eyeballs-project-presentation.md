@@ -18,7 +18,7 @@ suggested:
     post: hestialabs-wants-to-create-data-short-cycles
 show_social_sharing: true
 ---
-A new project joins the HestiaLabs fold! After [Dating Privacy](<The Eyeballs, the collective that reveals the hidden side of the web>) and its tools for dating app users to understand how their data is used, [The Eyeballs](https://eyeballs.hestialabs.org/) reveals the hidden side of the digital world: those invisible trackers that observe, record and analyse everything you do online.
+A new project joins the HestiaLabs fold! After [Dating Privacy](https://dating-privacy.hestialabs.org/) and its tools for dating app users to understand how their data is used, [The Eyeballs](https://eyeballs.hestialabs.org/) reveals the hidden side of the digital world: those invisible trackers that observe, record and analyse everything you do online.
 
 What's the point? Have you ever thought that your phone is spying on your conversations? Advertising sometimes seems to react to what you come up with. The reality is more complex: by studying your online behaviour and that of your friends and family (clicks, shares, likes, mouse movements, etc.), platforms end up knowing you better than you do. It is these mechanisms that The Eyeballs will reveal: what traces have you left online? How are they used to target you? And by whom? This will put you on an equal footing with those who try to influence you without your knowledge.
 

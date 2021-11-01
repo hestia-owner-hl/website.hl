@@ -12,7 +12,7 @@ post_authors:
   - cfd
 show_social_sharing: true
 ---
-Un nouveau projet rejoint le giron HestiaLabs ! Après [Dating Privacy](https://dating-privacy.hestialabs.org/) qui offre aux utilisateurs d’applications de rencontre les outils pour comprendre comment leurs données sont utilisées, [The Eyeballs](https://eyeballs.hestialabs.org/) vous fait découvrir la face cachée du numérique : ces traqueurs invisibles qui observent, enregistrent et analysent tout ce que vous faites en ligne.
+Un nouveau projet rejoint le giron HestiaLabs ! Après [Dating Privacy](https://dating-privacy.hestialabs.org/fr) qui offre aux utilisateurs d’applications de rencontre les outils pour comprendre comment leurs données sont utilisées, [The Eyeballs](https://eyeballs.hestialabs.org/) vous fait découvrir la face cachée du numérique : ces traqueurs invisibles qui observent, enregistrent et analysent tout ce que vous faites en ligne.
 
 À quoi ça sert? Ne vous êtes-vous jamais dit que votre téléphone espionnait vos conversations? La publicité semble parfois réagir à ce que vous venez dire. La réalité est plus complexe: à force d’étudier vos comportements en ligne et ceux de vos proches (clicks, partages, likes, mouvements de souris…), les plateformes finissent par vous connaître mieux que vous-mêmes. Ce sont ces mécanismes que The Eyeballs va révéler: quelles traces avez-vous laissé en ligne? Comment sont-elles utilisées pour vous cibler? Et par qui? De quoi vous mettre à armes égales avec ceux qui tentent de vous influencer à votre insu.
 

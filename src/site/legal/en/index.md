@@ -45,8 +45,8 @@ For the purposes of this policy, the words of which the initial letter is capita
 | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------- | --------------------------- | ------------------------------------------------------- |
 | Newsletter                                                        | Email address                                                     | Execution of a contract | Hestia.ai and subprocessors | As long as registered                                   |
 | Basic analytics (no tracking), technical maintenance and security | IP address, user agent, date and time of connection (server logs) | Legitimate interest     | Hestia.ai and subprocessors | [See here](https://www.netlify.com/products/analytics/) |
-| Described in context | Described in context | Consent  | Hestia.ai |  |
-| Described in context | Described in context | Consent  | Partner, as designed in context |  |
+| Described in context | Described in context | Consent  | Hestia.ai | Described in context |
+| Described in context | Described in context | Consent  | Partner, as designed in context |  Described in context |
 
 
 Please be aware that your Personal Data may be disclosed under the following circumstances, provided such disclosure occurs under sufficient security measures and does not lead to uncontrolled spread of information:

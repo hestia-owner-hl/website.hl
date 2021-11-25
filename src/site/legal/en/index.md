@@ -2,7 +2,7 @@
 layout: legal
 permalink: /en/legal/index.html
 title: Legal notice
-lead: "Last Updated: April 2021"
+lead: "Last Updated: November 2021"
 ---
 ## Impressum
 
@@ -41,12 +41,12 @@ For the purposes of this policy, the words of which the initial letter is capita
 
 ### 3. Data processing
 
-| Purpose of the processing                                         | Collected data                                                    | Lawful basis            | Recipients                  | Retention period                                        |
+| Context | Purpose of the processing                                         | Collected data                                                    | Lawful basis            | Recipients                  | Retention period                                        |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------- | --------------------------- | ------------------------------------------------------- |
-| Newsletter                                                        | Email address                                                     | Execution of a contract | Hestia.ai and subprocessors | As long as registered                                   |
-| Basic analytics (no tracking), technical maintenance and security | IP address, user agent, date and time of connection (server logs) | Legitimate interest     | Hestia.ai and subprocessors | [See here](https://www.netlify.com/products/analytics/) |
-| Described in context | Described in context | Consent  | Hestia.ai | Described in context |
-| Described in context | Described in context | Consent  | Partner, as designed in context |  Described in context |
+| Websites | Newsletter                                                        | Email address                                                     | Execution of a contract | Hestia.ai and subprocessors | As long as registered                                   |
+| Websites, including tools | Basic analytics (no tracking), technical maintenance and security | IP address, user agent, date and time of connection (server logs) | Legitimate interest     | Hestia.ai and subprocessors | [See here](https://www.netlify.com/products/analytics/) |
+| Specific data experience | Described in that experience context | Described in that experience context | Consent  | Hestia.ai | Described in that experience context |
+| Specific data experience| Described in that experience context | Described in that experience context | Consent  | Partners designated for that experience |  Described in that experience context |
 
 
 Please be aware that your Personal Data may be disclosed under the following circumstances, provided such disclosure occurs under sufficient security measures and does not lead to uncontrolled spread of information:

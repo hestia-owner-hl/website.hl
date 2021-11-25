@@ -45,7 +45,7 @@ Aux fins de la présente politique, les mots dont la lettre initiale est en maju
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------- | --------------------------------------- | ------------------------------------------------------- |
 | Newsletter                                                           | Adresse e-mail                                                              | Exécution d'un contrat | Hestia.ai et sous traitants             | Aussi longtemps que l'on est enregistré                 |
 | Analyse de base (pas de tracking), maintenance technique et sécurité | Adresse IP, agent utilisateur, date et heure de connexion (logs du serveur) | Intérêt légitime       | Hestia.ai et sous-traitants secondaires | [Voir ici](https://www.netlify.com/products/analytics/) |
-| Décrit dans son contexte | Décrit dans son contexte | Consentement      | Hestia.ai  | Spécifié dans son contexte |
+| Expérience de données spécifique, plus de détails fournis dans ce contexte | Décrit dans son contexte | Consentement      | Hestia.ai  | Expérience de données spécifique, plus de détails fournis dans ce contexte |
 | Décrit dans son contexte | Décrit dans son contexte | Consentement      | Partenaire dénommé dans le contexte  | Spécifié dans son contexte |
 
 Veuillez noter que vos Données Personnelles peuvent être divulguées dans les circonstances suivantes, à condition que cette divulgation se fasse dans le cadre de mesures de sécurité suffisantes et ne conduise pas à une diffusion incontrôlée de l'information :

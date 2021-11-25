@@ -42,7 +42,7 @@ For the purposes of this policy, the words of which the initial letter is capita
 ### 3. Data processing
 
 | Context | Purpose of the processing                                         | Collected data                                                    | Lawful basis            | Recipients                  | Retention period                                        |
-| ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------- | --------------------------- | ------------------------------------------------------- |
+| ---- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------- | --------------------------- | ------------------------------------------------------- |
 | Websites | Newsletter                                                        | Email address                                                     | Execution of a contract | Hestia.ai and subprocessors | As long as registered                                   |
 | Websites, including tools | Basic analytics (no tracking), technical maintenance and security | IP address, user agent, date and time of connection (server logs) | Legitimate interest     | Hestia.ai and subprocessors | [See here](https://www.netlify.com/products/analytics/) |
 | Specific data experience | Described in that experience context | Described in that experience context | Consent  | Hestia.ai | Described in that experience context |

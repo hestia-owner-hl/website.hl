@@ -25,6 +25,16 @@ press_releases:
 layout: media
 permalink: /fr/media/index.html
 media_articles:
+  - date: 2021-11-30T13:06:01.425Z
+    title: Comment partager les données collectivement et à dessein?
+    publication: ICTjournal
+    lead: Les données personnelles peuvent servir à du profilage, mais aussi à
+      quantité de projets et recherches d’utilité publique. Plusieurs mécanismes
+      de gouvernance permettent aux individus de partager leurs données en
+      s’assurant qu’elles serviront leurs aspirations.
+    url: https://www.ictjournal.ch/articles/2021-11-30/comment-partager-les-donnees-collectivement-et-a-dessein
+    image: /assets/media/hl_mecia_couv-ictjournal-partage-données.png
+    image_caption: ""
   - date: 2021-10-14T09:16:47.107Z
     title: HestiaLabs milite pour un écosystème numérique sain
     lead: En direct dans l’émission Tech & Co de la chaine française BFM Business,

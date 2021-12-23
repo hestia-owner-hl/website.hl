@@ -121,5 +121,15 @@ media_articles:
     publication: RTS - Forum
     image: /assets/media/media-reseaux-sociaux-mobile-apps.png
     image_caption: Image RTS
+  - date: 2021-11-30T13:06:01.425Z
+    title: Comment partager les données collectivement et à dessein?
+    publication: ICTjournal
+    lead: Les données personnelles peuvent servir à du profilage, mais aussi à
+      quantité de projets et recherches d’utilité publique. Plusieurs mécanismes
+      de gouvernance permettent aux individus de partager leurs données en
+      s’assurant qu’elles serviront leurs aspirations.
+    url: https://www.ictjournal.ch/articles/2021-11-30/comment-partager-les-donnees-collectivement-et-a-dessein
+    image: /assets/media/hl_mecia_couv-ictjournal-partage-données.png
+    image_caption: ""
 media_kit: Media kit
 ---

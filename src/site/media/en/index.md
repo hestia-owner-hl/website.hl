@@ -24,6 +24,14 @@ press_releases:
 layout: media
 permalink: /en/media/index.html
 media_articles:
+  - date: 2021-11-30T13:04:42.266Z
+    publication: ICTjournal
+    lead: Personal data can be used for profiling, but also for many public interest
+      projects and research. Several governance mechanisms allow individuals to
+      share their data while ensuring that it will serve their aspirations.
+    title: How to share data collectively and purposefully?
+    url: https://www.ictjournal.ch/articles/2021-11-30/comment-partager-les-donnees-collectivement-et-a-dessein
+    image: /assets/media/hl_mecia_couv-ictjournal-partage-données.png
   - date: 2021-10-14T09:16:11.277Z
     title: HestiaLabs advocates for a healthy digital ecosystem
     publication: BFM Business

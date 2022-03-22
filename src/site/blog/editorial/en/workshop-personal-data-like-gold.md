@@ -27,4 +27,4 @@ Thanks to the participants for their involvement, their relevant questions and t
 
 See you soon for new workshops.
 
-In the meantime, feel free to check our [Vimeo page](vimeo.com/hestiaai) for more videos.
+In the meantime, feel free to check our [Vimeo page](https://vimeo.com/hestiaai) for more videos.

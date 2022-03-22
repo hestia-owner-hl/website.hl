@@ -25,4 +25,4 @@ Merci aux participants pour leur implication, leurs questions pertinentes et leu
 
 A bientôt pour de nouveaux workshops.
 
-En attendant, n’hésitez pas à consulter [notre page Vimeo](vimeo.com/hestiaai) pour plus de vidéos.
+En attendant, n’hésitez pas à consulter [notre page Vimeo](https://vimeo.com/hestiaai) pour plus de vidéos.

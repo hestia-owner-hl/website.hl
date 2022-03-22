@@ -1,7 +1,7 @@
 ---
 title: Nos ateliers "réseaux sociaux" et "applications de rencontre" séduisent
 date: 2022-03-22T13:44:40.058Z
-lead: <https://eyeballs.hestialabs.org/>
+lead: ""
 post_categories:
   - data-collectives
 post_authors:

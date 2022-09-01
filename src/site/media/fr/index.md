@@ -17,14 +17,13 @@ media_kit_title: Retrouvez ici tout le matériel dont vous pourriez avoir besoin
 media_kit_file: https://drive.infomaniak.com/app/share/193995/3e9c8d5d-81f9-4a89-87e2-32a2678425b5
 download_title: Media kit
 download_button: Y accéder
-press_releases_title: Communiqués de presse
-press_releases:
-  - date: 2021-10-05T09:47:15.182Z
-    url: https://drive.infomaniak.com/app/share/193995/f117ca49-b2f3-400f-8510-f79790e9813b
-    title: HestiaLabs - De la collecte de données aux collectifs de données
-layout: media
-permalink: /fr/media/index.html
 media_articles:
+  - date: 2022-09-01T09:22:25.835Z
+    title: Tant attendue, la future loi sur la protection des données divise les
+      experts
+    publication: Le Temps
+    url: https://www.letemps.ch/suisse/tant-attendue-future-loi-protection-donnees-divise-experts
+    image: /assets/media/le_temps_logo-700x158.png
   - date: 2021-11-30T13:06:01.425Z
     title: Comment partager les données collectivement et à dessein?
     publication: ICTjournal
@@ -131,5 +130,12 @@ media_articles:
     publication: RTS - Forum
     image: /assets/media/media-reseaux-sociaux-mobile-apps.png
     image_caption: Image RTS
+press_releases_title: Communiqués de presse
+press_releases:
+  - date: 2021-10-05T09:47:15.182Z
+    url: https://drive.infomaniak.com/app/share/193995/f117ca49-b2f3-400f-8510-f79790e9813b
+    title: HestiaLabs - De la collecte de données aux collectifs de données
+layout: media
+permalink: /fr/media/index.html
 media_kit: Media kit
 ---

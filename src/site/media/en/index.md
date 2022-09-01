@@ -16,14 +16,12 @@ media_kit_title: Find here all the material you need about HestiaLabs (press
 media_kit_file: https://drive.infomaniak.com/app/share/193995/eadad47a-9d1a-43e8-8d8d-b3ca14e518be
 download_title: Media kit
 download_button: Get there
-press_releases_title: Press releases
-press_releases:
-  - date: 2021-10-05T12:59:14.786Z
-    title: HestiaLabs - From data collection to data collectives
-    url: https://drive.infomaniak.com/app/share/193995/caa8bf41-722c-4ed6-8e59-cd228969ddc0
-layout: media
-permalink: /en/media/index.html
 media_articles:
+  - date: 2022-09-01T09:20:45.125Z
+    title: Long-awaited data protection law divides experts
+    publication: Le Temps
+    url: https://www.letemps.ch/suisse/tant-attendue-future-loi-protection-donnees-divise-experts
+    image: /assets/media/le_temps_logo-700x158.png
   - date: 2021-11-30T13:04:42.266Z
     publication: ICTjournal
     lead: Personal data can be used for profiling, but also for many public interest
@@ -124,5 +122,12 @@ media_articles:
     publication: RTS - Forum
     image: /assets/media/media-reseaux-sociaux-mobile-apps.png
     image_caption: Image RTS
+press_releases_title: Press releases
+press_releases:
+  - date: 2021-10-05T12:59:14.786Z
+    title: HestiaLabs - From data collection to data collectives
+    url: https://drive.infomaniak.com/app/share/193995/caa8bf41-722c-4ed6-8e59-cd228969ddc0
+layout: media
+permalink: /en/media/index.html
 media_kit: Media kit
 ---

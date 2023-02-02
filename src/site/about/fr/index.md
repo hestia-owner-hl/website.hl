@@ -1,7 +1,4 @@
 ---
-contact_sharer_action: Découvrez nos collectifs de données
-contact_sharer_url: /fr/projects/
-contact_other_action: Write us
 title: À propos
 lead: Une innovation basée sur les données? Nous avons les compétences pour la
   réaliser\
@@ -26,16 +23,19 @@ contact_project_action: Nous pouvons vous aider!
 contact_project_channel: projects
 contact_sharer: Vous souhaitez partager vos données de manière constructive (et
   sans vous faire arnaquer)
+contact_sharer_action: Découvrez nos collectifs de données
+contact_sharer_url: /fr/projects/
+contact_other_action: Write us
 contact_partner: Vous seriez un partenaire intéressant pour HestiaLabs?
-contact_partner_action: Contactez Marie-Pierre
-contact_media: Vous êtes journaliste?
-people_title: L'équipe
-layout: about
-permalink: /fr/about/index.html
+contact_partner_action: Contactez-nous !
 contact_partner_channel: partners
+contact_media: Vous êtes journaliste?
 contact_media_action: Cette page est faite pour vous
 contact_media_url: /fr/media/
 contact_other: Autre chose?
+people_title: L'équipe
+layout: about
+permalink: /fr/about/index.html
 people:
   - name: Paul-Olivier Dehaye
     description: Mathématicien de formation, Paul-Olivier s'est rapidement intéressé
@@ -45,11 +45,6 @@ people:
       est le **PDG** de Hestia.ai, la société qui gère le projet HestiaLabs.
     twitter: https://twitter.com/podehaye
     image: /assets/media/paul-olivier-dehaye-c-hestia.ai-c.jpg
-  - name: Marie-Pierre Vidonne
-    description: Marie-Pierre is a Physicist. After several years spent in R&D in
-      both public and private sectors, Marie-Pierre joined Hestia in February
-      2021 as **analyst and grant officer**.
-    image: /assets/media/marie-pierre-vidonne-c-hestia.ai-c.jpg
   - name: Charles Foucault-Dumas
     description: A science journalist and [writer](https://foucault-dumas.ch/),
       Charles launched the media L'Usine Digitale before heading the NGO

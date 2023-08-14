@@ -1,7 +1,4 @@
 ---
-layout: partners
-permalink: /fr/partners/index.html
-title: Partners
 lead: |-
   Together with our partners,\
   we build **trust**
@@ -9,15 +6,10 @@ lead_image: /assets/media/hl_partners_hero-c-xavi-cabrera-kn-umdzqdjm-unsplash-c
 lead_image_caption: Photo de [Xavi Cabrera](https://unsplash.com/@xavi_cabrera)
   sur [Unsplash](https://unsplash.com/photos/kn-UmDZQDjM)
 you_title: You
-you_image: /assets/media/you_partner_claudio-schwarz-purzlbaum-unsplash.jpeg
 you_image_caption: Photo by [Claudio Schwarz](https://unsplash.com/@purzlbaum)
   on [Unsplash](https://unsplash.com/photos/k39RGHmLoV8)
-you_description: |-
-  You are interested in building a better digital world?\
-  You think you can help us achieve our ambitious goals?\
-  Or maybe you just want to chat a bit?
-you_button: Let's talk
 you_channel: partners
+layout: partners
 partners:
   - title: Migros Pioneer Fund
     description: >-
@@ -108,4 +100,12 @@ partners:
       - type: contact
         button: Join us
         channel: partners
+permalink: /fr/partners/index.html
+title: Partners
+you_image: /assets/media/you_partner_claudio-schwarz-purzlbaum-unsplash.jpeg
+you_description: |-
+  You are interested in building a better digital world?\
+  You think you can help us achieve our ambitious goals?\
+  Or maybe you just want to chat a bit?
+you_button: Let's talk
 ---

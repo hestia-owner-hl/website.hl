@@ -59,7 +59,7 @@ featured_projects:
   - mobility
   - data-literacy
 permalink: /fr/index.html
-paragraphs_title: HestiLabs est un (beau) projet de
+paragraphs_title: HestiaLabs est un (beau) projet de
   l’entreprise🇨🇭[Hestia.ai](https://hestia.ai)
 news_title: Actus et événements
 news:

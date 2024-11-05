@@ -48,10 +48,10 @@ partners:
 
       Through its awareness-raising initiatives, it changes the perception of people outside our [data collectives](/en/projects/) about the issues we address, and how they want to situate themselves as actors of change.
     url: https://wiki.personaldata.io/wiki/Main_Page
-    image: /assets/media/partners-personaldata-logo.png
+    image: /assets/media/pdio-logo-noir-2023-moyen.jpg
     contact:
       - type: link
-        url: https://wiki.personaldata.io/wiki/Main_Page
+        url: https://personaldata.io
         button: Website
   - title: Academic partners
     description: >-
